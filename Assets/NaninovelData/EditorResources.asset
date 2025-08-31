@@ -157,3 +157,5 @@ MonoBehaviour:
     - name: smile
       pathPrefix: Characters/Corn
       guid: 672f2fdb51ac8b44084d61c527f7eb76
+  - Id: Backgrounds/28ee2642-3439-43d7-b682-0d6fdc681817
+    Resources: []
