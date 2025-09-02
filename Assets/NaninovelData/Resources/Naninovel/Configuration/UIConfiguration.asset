@@ -28,5 +28,11 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   OverrideObjectsLayer: 1
   ObjectsLayer: 5
-  FontOptions: []
-  DefaultFont: 
+  FontOptions:
+  - FontName: Chinese-Simple
+    FontResource: NotoSansSC-VariableFont_wght SDF
+    ApplyOnLocale: zh-CN
+  - FontName: English
+    FontResource: LiberationSans SDF
+    ApplyOnLocale: en
+  DefaultFont: NotoSansSC-VariableFont_wght SDF

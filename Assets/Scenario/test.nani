@@ -1,4 +1,0 @@
-@char Corn
-Corn: hello
-@goto 2
-@stop

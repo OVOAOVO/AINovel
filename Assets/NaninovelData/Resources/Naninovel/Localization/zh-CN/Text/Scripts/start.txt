@@ -1,0 +1,5 @@
+; English <en> to Chinese (S) <zh-CN> localization document for 'start' Naninovel scenario script
+
+# ~f780d972
+; hello
+

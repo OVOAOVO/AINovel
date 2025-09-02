@@ -1,0 +1,6 @@
+notbad
+@loadScene 主界面 additive!
+加载界面
+@unloadScene 主界面
+unloadscene1
+@stop
