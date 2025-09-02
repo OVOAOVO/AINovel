@@ -1,4 +1,4 @@
-; English <en> to Chinese (S) <zh-CN> localization document for 'Locales' managed text document
+; Chinese (S) <zh-CN> to English <en> localization document for 'Locales' managed text document
 
 ; Afrikaans
 af: 

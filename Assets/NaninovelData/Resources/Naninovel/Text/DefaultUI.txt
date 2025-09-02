@@ -73,7 +73,7 @@ TitleMenu.CGGallery: CG GALLERY
 TitleMenu.Continue: CONTINUE
 TitleMenu.Exit: EXIT
 TitleMenu.ExternalScripts: EXTERNAL SCRIPTS
-TitleMenu.NewGame: NEW GAME
+TitleMenu.NewGame: 新游戏
 TitleMenu.Settings: SETTINGS
 TitleMenu.Tips: TIPS
 VariableInput.Submit: SUBMIT

@@ -1,0 +1,13 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1_1' Naninovel scenario script
+
+# ~e05e05e2
+; notbad
+
+
+# ~6405fbc9
+; 加载界面
+
+
+# ~467029b9
+; unloadscene1
+

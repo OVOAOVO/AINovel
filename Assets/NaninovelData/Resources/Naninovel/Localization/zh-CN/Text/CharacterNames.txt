@@ -1,1 +1,0 @@
-; English <en> to Chinese (S) <zh-CN> localization document for 'CharacterNames' managed text document

@@ -149,7 +149,7 @@ MonoBehaviour:
     - name: start
       pathPrefix: Scripts
       guid: 0b32bc4f3cc6e724db9fcb0cfbf9b1e8
-    - name: "\u65E5\u5E38\u7BC71"
+    - name: chapter_1_1
       pathPrefix: Scripts
       guid: 4a5f2deed5390d6418f97e5ec77c0b69
   - Id: Backgrounds/28ee2642-3439-43d7-b682-0d6fdc681817
