@@ -15,27 +15,27 @@ ControlPanel.Settings: SETTINGS
 ControlPanel.Skip: SKIP
 ControlPanel.Tips: TIPS
 ControlPanel.Title: TITLE
-ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+ControlPanelTitleButton.ConfirmationMessage: 您确定要退出到标题屏幕吗？<br>任何未保存的游戏进度都将丢失。
 ExternalScriptsBrowser.Info: Select a script to play
 ExternalScriptsBrowser.Title: EXTERNAL SCRIPTS
-GameSettingsFontDropdown.DefaultFontName: Default
-GameSettingsFontSizeDropdown.Default: Default
-GameSettingsFontSizeDropdown.ExtraLarge: Extra Large
-GameSettingsFontSizeDropdown.Large: Large
-GameSettingsFontSizeDropdown.Small: Small
-GameSettingsGraphicsDropdown.GraphicOption1: Very Low
-GameSettingsGraphicsDropdown.GraphicOption2: Low
-GameSettingsGraphicsDropdown.GraphicOption3: Medium
-GameSettingsGraphicsDropdown.GraphicOption4: High
-GameSettingsGraphicsDropdown.GraphicOption5: Very High
-GameSettingsGraphicsDropdown.GraphicOption6: Ultra
-GameSettingsScreenModeDropdown.ExclusiveFullScreen: Full Screen
-GameSettingsScreenModeDropdown.FullScreenWindow: Full Screen Window
-GameSettingsScreenModeDropdown.MaximizedWindow: Maximized Window
-GameSettingsScreenModeDropdown.Windowed: Windowed
-GameSettingsSkipModeDropdown.Everything: Everything
-GameSettingsSkipModeDropdown.ReadOnly: Read Only
-GameStateSlot.EmptySlotLabel: Empty
+GameSettingsFontDropdown.DefaultFontName: 默认字体
+GameSettingsFontSizeDropdown.Default: 默认
+GameSettingsFontSizeDropdown.ExtraLarge: 特大
+GameSettingsFontSizeDropdown.Large: 大号
+GameSettingsFontSizeDropdown.Small: 小号
+GameSettingsGraphicsDropdown.GraphicOption1: 非常低
+GameSettingsGraphicsDropdown.GraphicOption2: 低
+GameSettingsGraphicsDropdown.GraphicOption3: 中等的
+GameSettingsGraphicsDropdown.GraphicOption4: 高
+GameSettingsGraphicsDropdown.GraphicOption5: 非常高
+GameSettingsGraphicsDropdown.GraphicOption6: 极高
+GameSettingsScreenModeDropdown.ExclusiveFullScreen: 全屏
+GameSettingsScreenModeDropdown.FullScreenWindow: 全屏窗口
+GameSettingsScreenModeDropdown.MaximizedWindow: 最大化窗口
+GameSettingsScreenModeDropdown.Windowed: 窗口
+GameSettingsSkipModeDropdown.Everything: 一切
+GameSettingsSkipModeDropdown.ReadOnly: 只读
+GameStateSlot.EmptySlotLabel: 空
 General.Close: CLOSE
 General.Delete: DELETE
 General.Navigate: NAV.
@@ -45,8 +45,8 @@ General.Scroll: SCROLL
 General.Select: SELECT
 General.Tab: TAB
 General.View: VIEW
-SaveLoadMenu.DeleteSaveSlotMessage: Are you sure you want to delete save slot?
-SaveLoadMenu.OverwriteSaveSlotMessage: Are you sure you want to overwrite save slot?
+SaveLoadMenu.DeleteSaveSlotMessage: 确定要删除该存档位吗？
+SaveLoadMenu.OverwriteSaveSlotMessage: 确定要覆盖该存档位吗？
 SaveLoadMenu.Tab.Load: LOAD
 SaveLoadMenu.Tab.QuickLoad: Q. LOAD
 SaveLoadMenu.Tab.Save: SAVE
@@ -73,7 +73,7 @@ TitleMenu.CGGallery: CG GALLERY
 TitleMenu.Continue: CONTINUE
 TitleMenu.Exit: EXIT
 TitleMenu.ExternalScripts: EXTERNAL SCRIPTS
-TitleMenu.NewGame: 新游戏
-TitleMenu.Settings: 设置
+TitleMenu.NewGame: NEW GAME
+TitleMenu.Settings: SETTINGS
 TitleMenu.Tips: TIPS
 VariableInput.Submit: SUBMIT
