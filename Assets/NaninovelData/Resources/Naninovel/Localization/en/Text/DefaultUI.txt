@@ -226,10 +226,9 @@ TitleMenu.Exit:
 TitleMenu.ExternalScripts: 
 
 ; 新游戏
-TitleMenu.NewGame: newaaaa
-
-; SETTINGS
-TitleMenu.Settings: 
+TitleMenu.NewGame: newname
+; 设置
+TitleMenu.Settings: fuck
 
 ; TIPS
 TitleMenu.Tips: 
