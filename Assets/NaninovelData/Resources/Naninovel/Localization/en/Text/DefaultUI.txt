@@ -51,7 +51,7 @@ ControlPanel.Tips:
 ; TITLE
 ControlPanel.Title: 
 
-; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+; 您确定要退出到标题屏幕吗？<br>任何未保存的游戏进度都将丢失。
 ControlPanelTitleButton.ConfirmationMessage: 
 
 ; Select a script to play
@@ -60,58 +60,58 @@ ExternalScriptsBrowser.Info:
 ; EXTERNAL SCRIPTS
 ExternalScriptsBrowser.Title: 
 
-; Default
+; 默认字体
 GameSettingsFontDropdown.DefaultFontName: 
 
-; Default
+; 默认
 GameSettingsFontSizeDropdown.Default: 
 
-; Extra Large
+; 特大
 GameSettingsFontSizeDropdown.ExtraLarge: 
 
-; Large
+; 大号
 GameSettingsFontSizeDropdown.Large: 
 
-; Small
+; 小号
 GameSettingsFontSizeDropdown.Small: 
 
-; Very Low
+; 非常低
 GameSettingsGraphicsDropdown.GraphicOption1: 
 
-; Low
+; 低
 GameSettingsGraphicsDropdown.GraphicOption2: 
 
-; Medium
+; 中等的
 GameSettingsGraphicsDropdown.GraphicOption3: 
 
-; High
+; 高
 GameSettingsGraphicsDropdown.GraphicOption4: 
 
-; Very High
+; 非常高
 GameSettingsGraphicsDropdown.GraphicOption5: 
 
-; Ultra
+; 极高
 GameSettingsGraphicsDropdown.GraphicOption6: 
 
-; Full Screen
+; 全屏
 GameSettingsScreenModeDropdown.ExclusiveFullScreen: 
 
-; Full Screen Window
+; 全屏窗口
 GameSettingsScreenModeDropdown.FullScreenWindow: 
 
-; Maximized Window
+; 最大化窗口
 GameSettingsScreenModeDropdown.MaximizedWindow: 
 
-; Windowed
+; 窗口
 GameSettingsScreenModeDropdown.Windowed: 
 
-; Everything
+; 一切
 GameSettingsSkipModeDropdown.Everything: 
 
-; Read Only
+; 只读
 GameSettingsSkipModeDropdown.ReadOnly: 
 
-; Empty
+; 空
 GameStateSlot.EmptySlotLabel: 
 
 ; CLOSE
@@ -141,10 +141,10 @@ General.Tab:
 ; VIEW
 General.View: 
 
-; Are you sure you want to delete save slot?
+; 确定要删除该存档位吗？
 SaveLoadMenu.DeleteSaveSlotMessage: 
 
-; Are you sure you want to overwrite save slot?
+; 确定要覆盖该存档位吗？
 SaveLoadMenu.OverwriteSaveSlotMessage: 
 
 ; LOAD
@@ -225,10 +225,11 @@ TitleMenu.Exit:
 ; EXTERNAL SCRIPTS
 TitleMenu.ExternalScripts: 
 
-; 新游戏
-TitleMenu.NewGame: newname
-; 设置
-TitleMenu.Settings: fuck
+; NEW GAME
+TitleMenu.NewGame: 
+
+; SETTINGS
+TitleMenu.Settings: 
 
 ; TIPS
 TitleMenu.Tips: 
