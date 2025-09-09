@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 048bd0b7588350f4a927fb3c3148c724
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HP Simplified Hans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ae544ff1636278e479b2a97e76c3dbfe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

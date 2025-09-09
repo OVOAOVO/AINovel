@@ -1,55 +1,55 @@
 ; Chinese (S) <zh-CN> to English <en> localization document for 'DefaultUI' managed text document
 
-; CG GALLERY
-CGGallery.Title: 
+; CG回廊
+CGGallery.Title: 11
 
-; NO
-Confirmation.No: 
+; 不
+Confirmation.No: adaa
 
-; YES
-Confirmation.Yes: 
+; 是
+Confirmation.Yes: aaa
 
-; AUTO
-ControlPanel.Auto: 
+; 自动
+ControlPanel.Auto: aaa
 
-; CONT.
-ControlPanel.Continue: 
+; 继续.
+ControlPanel.Continue: aaa
 
-; HIDE
-ControlPanel.Hide: 
+; 隐藏
+ControlPanel.Hide: aaa
 
-; LOAD
-ControlPanel.Load: 
+; 加载
+ControlPanel.Load: aaa
 
-; LOG
-ControlPanel.Log: 
+; 日志
+ControlPanel.Log: aaa
 
-; MENU
-ControlPanel.Menu: 
+; 菜单
+ControlPanel.Menu: aaa
 
-; Q.LOAD
-ControlPanel.QuickLoad: 
+; Q.加载
+ControlPanel.QuickLoad: aaa
 
-; Q.SAVE
-ControlPanel.QuickSave: 
+; Q.保存
+ControlPanel.QuickSave: aaa
 
-; BACK
-ControlPanel.Rollback: 
+; 返回
+ControlPanel.Rollback: aaa
 
-; SAVE
-ControlPanel.Save: 
+; 保存
+ControlPanel.Save: aaa
 
-; SETTINGS
-ControlPanel.Settings: 
+; 设置s
+ControlPanel.Settings: aaa
 
-; SKIP
-ControlPanel.Skip: 
+; 跳过
+ControlPanel.Skip: aaa
 
-; TIPS
-ControlPanel.Tips: 
+; 提示
+ControlPanel.Tips: aaa
 
-; TITLE
-ControlPanel.Title: 
+; 标题
+ControlPanel.Title: aaa
 
 ; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
 ControlPanelTitleButton.ConfirmationMessage: 
@@ -66,32 +66,32 @@ GameSettingsFontDropdown.DefaultFontName:
 ; Default
 GameSettingsFontSizeDropdown.Default: 
 
-; Extra Large
-GameSettingsFontSizeDropdown.ExtraLarge: 
+; 特大
+GameSettingsFontSizeDropdown.ExtraLarge: aaa
 
-; Large
-GameSettingsFontSizeDropdown.Large: 
+; 大
+GameSettingsFontSizeDropdown.Large: aaa
 
-; Small
-GameSettingsFontSizeDropdown.Small: 
+; 小
+GameSettingsFontSizeDropdown.Small: aaa
 
-; Very Low
-GameSettingsGraphicsDropdown.GraphicOption1: 
+; 非常低
+GameSettingsGraphicsDropdown.GraphicOption1: aaa
 
-; Low
-GameSettingsGraphicsDropdown.GraphicOption2: 
+; 低
+GameSettingsGraphicsDropdown.GraphicOption2: aaa
 
-; Medium
-GameSettingsGraphicsDropdown.GraphicOption3: 
+; 中等
+GameSettingsGraphicsDropdown.GraphicOption3: aaa
 
-; High
-GameSettingsGraphicsDropdown.GraphicOption4: 
+; 高
+GameSettingsGraphicsDropdown.GraphicOption4: aaa
 
-; Very High
-GameSettingsGraphicsDropdown.GraphicOption5: 
+; 非常高
+GameSettingsGraphicsDropdown.GraphicOption5: aaa
 
-; Ultra
-GameSettingsGraphicsDropdown.GraphicOption6: 
+; 顶级
+GameSettingsGraphicsDropdown.GraphicOption6: aaa
 
 ; Full Screen
 GameSettingsScreenModeDropdown.ExclusiveFullScreen: 
@@ -102,32 +102,32 @@ GameSettingsScreenModeDropdown.FullScreenWindow:
 ; Maximized Window
 GameSettingsScreenModeDropdown.MaximizedWindow: 
 
-; Windowed
-GameSettingsScreenModeDropdown.Windowed: 
+; 窗口化
+GameSettingsScreenModeDropdown.Windowed: aaa
 
-; Everything
-GameSettingsSkipModeDropdown.Everything: 
+; 所有
+GameSettingsSkipModeDropdown.Everything: aaa
 
-; Read Only
-GameSettingsSkipModeDropdown.ReadOnly: 
+; 只读
+GameSettingsSkipModeDropdown.ReadOnly: aaa
 
 ; Empty
-GameStateSlot.EmptySlotLabel: 
+GameStateSlot.EmptySlotLabel: aaa
 
-; CLOSE
-General.Close: 
+; 关闭
+General.Close: aaa
 
-; DELETE
-General.Delete: 
+; 删除
+General.Delete: aaa
 
 ; NAV.
 General.Navigate: 
 
-; PAGE
-General.Page: 
+; 页面
+General.Page: aaa
 
-; RETURN
-General.Return: 
+; 返回
+General.Return: aaa
 
 ; SCROLL
 General.Scroll: 
@@ -156,23 +156,23 @@ SaveLoadMenu.Tab.QuickLoad:
 ; SAVE
 SaveLoadMenu.Tab.Save: 
 
-; Auto delay
-SettingsMenu.AutoDelay: 
+; 自动播放
+SettingsMenu.AutoDelay: aaa
 
-; Font
-SettingsMenu.Font: 
+; 字体
+SettingsMenu.Font: aaa
 
-; Font size
-SettingsMenu.FontSize: 
+; 字体大小
+SettingsMenu.FontSize: aaa
 
-; Graphics
-SettingsMenu.Graphics: 
+; 图形设置
+SettingsMenu.Graphics: aaa
 
-; Language
-SettingsMenu.Language: 
+; 语言
+SettingsMenu.Language: aaa
 
-; Message speed
-SettingsMenu.MessageSpeed: 
+; 文本速度
+SettingsMenu.MessageSpeed: aaa
 
 ; Preview
 SettingsMenu.Preview: 
@@ -183,23 +183,23 @@ SettingsMenu.PreviewText:
 ; Resolution
 SettingsMenu.Resolution: 
 
-; Screen mode
-SettingsMenu.ScreenMode: 
+; 屏幕模式
+SettingsMenu.ScreenMode: aaa
 
-; Skip mode
-SettingsMenu.SkipMode: 
+; 跳过模式
+SettingsMenu.SkipMode: aaa
 
-; BASIC
-SettingsMenu.Tab.Basic: 
+; 基础
+SettingsMenu.Tab.Basic: aaa
 
-; SOUND
-SettingsMenu.Tab.Sound: 
+; 声音
+SettingsMenu.Tab.Sound: aaa
 
-; TEXT
-SettingsMenu.Tab.Text: 
+; 文本
+SettingsMenu.Tab.Text: aaa
 
-; Voice language
-SettingsMenu.VoiceLanguage: 
+; 语音语言
+SettingsMenu.VoiceLanguage: aaa
 
 ; Effects volume
 SettingsMenu.VolumeEffects: 
@@ -207,11 +207,11 @@ SettingsMenu.VolumeEffects:
 ; Master volume
 SettingsMenu.VolumeMaster: 
 
-; Music volume
-SettingsMenu.VolumeMusic: 
+; 音乐大小
+SettingsMenu.VolumeMusic: aaa
 
-; Voice volume
-SettingsMenu.VolumeVoice: 
+; 语音大小
+SettingsMenu.VolumeVoice: aaa
 
 ; CG GALLERY
 TitleMenu.CGGallery: 
@@ -219,15 +219,16 @@ TitleMenu.CGGallery:
 ; CONTINUE
 TitleMenu.Continue: 
 
-; EXIT
-TitleMenu.Exit: 
+; 退出
+TitleMenu.Exit: aaa
 
 ; EXTERNAL SCRIPTS
 TitleMenu.ExternalScripts: 
 
-; 新游戏
+; 不对？
 TitleMenu.NewGame: newname
-; 设置
+
+; 你好？
 TitleMenu.Settings: fuck
 
 ; TIPS
