@@ -9,12 +9,12 @@
             "Naninovel.UIManager+Settings, Elringus.Naninovel.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
         ],
         "values": [
-            "{\"SelectedLocale\":\"zh-CN\"}",
-            "{\"QualityLevel\":5}",
-            "{\"SkipMode\":0}",
+            "{\"SelectedLocale\":\"en\"}",
+            "{\"QualityLevel\":0}",
+            "{\"SkipMode\":1}",
             "{\"BaseRevealSpeed\":0.5,\"BaseAutoDelay\":0.5}",
             "{\"MasterVolume\":1.0,\"BgmVolume\":1.0,\"SfxVolume\":1.0,\"VoiceVolume\":1.0,\"VoiceLocale\":\"\",\"AuthorVolume\":[]}",
-            "{\"FontName\":\"Chinese-Simple\",\"FontSize\":-1}"
+            "{\"FontName\":\"English\",\"FontSize\":0}"
         ]
     }
 }
