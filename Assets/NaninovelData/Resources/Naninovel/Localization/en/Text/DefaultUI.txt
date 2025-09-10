@@ -1,238 +1,238 @@
 ; Chinese (S) <zh-CN> to English <en> localization document for 'DefaultUI' managed text document
 
 ; CG 画廊
-CGGallery.Title: CG GALLERY
+CGGallery.Title: 
 
 ; 否
-Confirmation.No: No
+Confirmation.No: 
 
 ; 是
-Confirmation.Yes: Yes
+Confirmation.Yes: 
 
 ; 自动
-ControlPanel.Auto: AUTO
+ControlPanel.Auto: 
 
 ; 继续。
-ControlPanel.Continue: CONT.
+ControlPanel.Continue: 
 
 ; 隐藏
-ControlPanel.Hide: HIDE
+ControlPanel.Hide: 
 
 ; 读档
-ControlPanel.Load: LOAD
+ControlPanel.Load: 
 
 ; 日志
-ControlPanel.Log: LOG
+ControlPanel.Log: 
 
 ; 目录
-ControlPanel.Menu: MENU
+ControlPanel.Menu: 
 
 ; 快速读档
-ControlPanel.QuickLoad: Q.LOAD 
+ControlPanel.QuickLoad: 
 
 ; 快速存档
-ControlPanel.QuickSave: Q.SAVE
+ControlPanel.QuickSave: 
 
 ; 回退
-ControlPanel.Rollback: BACK
+ControlPanel.Rollback: 
 
 ; 存档
-ControlPanel.Save: SAVE
+ControlPanel.Save: 
 
 ; 设置
-ControlPanel.Settings: SETTINGS
+ControlPanel.Settings: 
 
 ; 跳过
-ControlPanel.Skip: SKIP
+ControlPanel.Skip: 
 
 ; 提示
-ControlPanel.Tips: TIPS
+ControlPanel.Tips: 
 
 ; 标题
-ControlPanel.Title: TITLE
+ControlPanel.Title: 
 
 ; 您确定要退出到标题屏幕吗？<br>任何未保存的游戏进度都将丢失。
-ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to exit to the title screen? <br>Any unsaved game progress will be lost
+ControlPanelTitleButton.ConfirmationMessage: 
 
 ; 请选择你要播放的脚本
-ExternalScriptsBrowser.Info: Please select the script you want to play.
+ExternalScriptsBrowser.Info: 
 
 ; 外部脚本
-ExternalScriptsBrowser.Title: External script
+ExternalScriptsBrowser.Title: 
 
 ; 默认字体
-GameSettingsFontDropdown.DefaultFontName: Default
+GameSettingsFontDropdown.DefaultFontName: 
 
 ; 默认
-GameSettingsFontSizeDropdown.Default: Default
+GameSettingsFontSizeDropdown.Default: 
 
 ; 特大
-GameSettingsFontSizeDropdown.ExtraLarge: ExtraLarge
+GameSettingsFontSizeDropdown.ExtraLarge: 
 
 ; 大
-GameSettingsFontSizeDropdown.Large: Large
+GameSettingsFontSizeDropdown.Large: 
 
 ; 小
-GameSettingsFontSizeDropdown.Small: Small
+GameSettingsFontSizeDropdown.Small: 
 
 ; 极低
-GameSettingsGraphicsDropdown.GraphicOption1: very low
+GameSettingsGraphicsDropdown.GraphicOption1: 
 
 ; 低
-GameSettingsGraphicsDropdown.GraphicOption2: low
+GameSettingsGraphicsDropdown.GraphicOption2: 
 
 ; 中等的
-GameSettingsGraphicsDropdown.GraphicOption3: medium
+GameSettingsGraphicsDropdown.GraphicOption3: 
 
 ; 高
-GameSettingsGraphicsDropdown.GraphicOption4: high
+GameSettingsGraphicsDropdown.GraphicOption4: 
 
 ; 非常高
-GameSettingsGraphicsDropdown.GraphicOption5: very high
+GameSettingsGraphicsDropdown.GraphicOption5: 
 
 ; 极高
-GameSettingsGraphicsDropdown.GraphicOption6: extreme
+GameSettingsGraphicsDropdown.GraphicOption6: 
 
 ; 全屏
-GameSettingsScreenModeDropdown.ExclusiveFullScreen: ExclusiveFullScreen
+GameSettingsScreenModeDropdown.ExclusiveFullScreen: 
 
 ; 全屏窗口
-GameSettingsScreenModeDropdown.FullScreenWindow: FullScreenWindow
+GameSettingsScreenModeDropdown.FullScreenWindow: 
 
 ; 最大化窗口
-GameSettingsScreenModeDropdown.MaximizedWindow: MaximizedWindow
+GameSettingsScreenModeDropdown.MaximizedWindow: 
 
 ; 窗口模式
-GameSettingsScreenModeDropdown.Windowed: windowed
+GameSettingsScreenModeDropdown.Windowed: 
 
 ; 全部跳过
-GameSettingsSkipModeDropdown.Everything: Skip Everything
+GameSettingsSkipModeDropdown.Everything: 
 
 ; 已读跳过
-GameSettingsSkipModeDropdown.ReadOnly: Skip Read
+GameSettingsSkipModeDropdown.ReadOnly: 
 
 ; 空
-GameStateSlot.EmptySlotLabel: Empty
+GameStateSlot.EmptySlotLabel: 
 
 ; 关闭
-General.Close: Close
+General.Close: 
 
 ; 删除
-General.Delete: Delete
+General.Delete: 
 
 ; 导航
-General.Navigate: NAV.
+General.Navigate: 
 
 ; 页
-General.Page: Page
+General.Page: 
 
 ; 返回
-General.Return: Return
+General.Return: 
 
 ; 滚动
-General.Scroll: Scroll
+General.Scroll: 
 
 ; 选择
-General.Select: Select
+General.Select: 
 
 ; 标签
-General.Tab: Tab
+General.Tab: 
 
 ; 查看
-General.View: View
+General.View: 
 
 ; 确定要删除该存档位吗？
-SaveLoadMenu.DeleteSaveSlotMessage: Delete this save slot?
+SaveLoadMenu.DeleteSaveSlotMessage: 
 
 ; 确定要覆盖该存档位吗？
-SaveLoadMenu.OverwriteSaveSlotMessage: Overwrite this save slot?
+SaveLoadMenu.OverwriteSaveSlotMessage: 
 
 ; 读档
-SaveLoadMenu.Tab.Load: Load
+SaveLoadMenu.Tab.Load: 
 
 ; 快速读档
-SaveLoadMenu.Tab.QuickLoad: Q.Load
+SaveLoadMenu.Tab.QuickLoad: 
 
 ; 存档
-SaveLoadMenu.Tab.Save: Save
+SaveLoadMenu.Tab.Save: 
 
 ; 自动播放延迟
-SettingsMenu.AutoDelay: Auto Delay
+SettingsMenu.AutoDelay: 
 
 ; 字体
-SettingsMenu.Font: Font
+SettingsMenu.Font: 
 
 ; 字号
-SettingsMenu.FontSize: FontSize
+SettingsMenu.FontSize: 
 
 ; 画质
-SettingsMenu.Graphics: Graphics
+SettingsMenu.Graphics: 
 
 ; 语言
-SettingsMenu.Language: Language
+SettingsMenu.Language: 
 
 ; 文字速度
-SettingsMenu.MessageSpeed: Message Speed
+SettingsMenu.MessageSpeed: 
 
 ; 预览
-SettingsMenu.Preview: Preview
+SettingsMenu.Preview: 
 
 ; 这是一段预览文本，用于查看字体与大小效果
-SettingsMenu.PreviewText: This is a preview text to check font and size.
+SettingsMenu.PreviewText: 
 
 ; 分辨率
-SettingsMenu.Resolution: Resolution
+SettingsMenu.Resolution: 
 
 ; 显示模式
-SettingsMenu.ScreenMode: Screen Mode
+SettingsMenu.ScreenMode: 
 
 ; 跳过模式
-SettingsMenu.SkipMode: Skip Mode
+SettingsMenu.SkipMode: 
 
 ; 基础
-SettingsMenu.Tab.Basic: Basic
+SettingsMenu.Tab.Basic: 
 
 ; 声音
-SettingsMenu.Tab.Sound: Sound
+SettingsMenu.Tab.Sound: 
 
 ; 文本
-SettingsMenu.Tab.Text: Text
+SettingsMenu.Tab.Text: 
 
 ; 语音语言
-SettingsMenu.VoiceLanguage: VoiceLanguage
+SettingsMenu.VoiceLanguage: 
 
 ; 音效音量
-SettingsMenu.VolumeEffects: Effects Volume
+SettingsMenu.VolumeEffects: 
 
 ; 主音量
-SettingsMenu.VolumeMaster: Master Volume
+SettingsMenu.VolumeMaster: 
 
 ; 背景音乐音量
-SettingsMenu.VolumeMusic: Music Volume
+SettingsMenu.VolumeMusic: 
 
 ; 语音音量
-SettingsMenu.VolumeVoice: Voice Volume
+SettingsMenu.VolumeVoice: 
 
-; CG 画廊
-TitleMenu.CGGallery: CG GALLERY
+; CG画廊
+TitleMenu.CGGallery: 
 
 ; 继续游戏
-TitleMenu.Continue: CONTINUE
+TitleMenu.Continue: 
 
 ; 退出游戏
-TitleMenu.Exit: EXIT
+TitleMenu.Exit: 
 
 ; 外部脚本
-TitleMenu.ExternalScripts: EXTERNAL SCRIPTS
+TitleMenu.ExternalScripts: 
 
 ; 新的游戏
-TitleMenu.NewGame: NEW GAME
+TitleMenu.NewGame: 
 
 ; 设置
-TitleMenu.Settings: SETTINGS
+TitleMenu.Settings: 
 
 ; 提示
-TitleMenu.Tips: TIPS
+TitleMenu.Tips: 
 
 ; 确定
-VariableInput.Submit: SUBMIT
+VariableInput.Submit: 

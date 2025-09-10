@@ -69,7 +69,7 @@ SettingsMenu.VolumeEffects: 音效音量
 SettingsMenu.VolumeMaster: 主音量
 SettingsMenu.VolumeMusic: 背景音乐音量
 SettingsMenu.VolumeVoice: 语音音量
-TitleMenu.CGGallery: CG 画廊
+TitleMenu.CGGallery: CG画廊
 TitleMenu.Continue: 继续游戏
 TitleMenu.Exit: 退出游戏
 TitleMenu.ExternalScripts: 外部脚本
