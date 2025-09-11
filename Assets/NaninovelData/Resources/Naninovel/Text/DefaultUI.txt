@@ -1,79 +1,79 @@
-CGGallery.Title: CG GALLERY
-Confirmation.No: NO
-Confirmation.Yes: YES
-ControlPanel.Auto: AUTO
-ControlPanel.Continue: CONT.
-ControlPanel.Hide: HIDE
-ControlPanel.Load: LOAD
-ControlPanel.Log: LOG
-ControlPanel.Menu: MENU
-ControlPanel.QuickLoad: Q.LOAD
-ControlPanel.QuickSave: Q.SAVE
-ControlPanel.Rollback: BACK
-ControlPanel.Save: SAVE
-ControlPanel.Settings: SETTINGS
-ControlPanel.Skip: SKIP
-ControlPanel.Tips: TIPS
-ControlPanel.Title: TITLE
-ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
-ExternalScriptsBrowser.Info: Select a script to play
-ExternalScriptsBrowser.Title: EXTERNAL SCRIPTS
-GameSettingsFontDropdown.DefaultFontName: Default
-GameSettingsFontSizeDropdown.Default: Default
-GameSettingsFontSizeDropdown.ExtraLarge: Extra Large
-GameSettingsFontSizeDropdown.Large: Large
-GameSettingsFontSizeDropdown.Small: Small
-GameSettingsGraphicsDropdown.GraphicOption1: Very Low
-GameSettingsGraphicsDropdown.GraphicOption2: Low
-GameSettingsGraphicsDropdown.GraphicOption3: Medium
-GameSettingsGraphicsDropdown.GraphicOption4: High
-GameSettingsGraphicsDropdown.GraphicOption5: Very High
-GameSettingsGraphicsDropdown.GraphicOption6: Ultra
-GameSettingsScreenModeDropdown.ExclusiveFullScreen: Full Screen
-GameSettingsScreenModeDropdown.FullScreenWindow: Full Screen Window
-GameSettingsScreenModeDropdown.MaximizedWindow: Maximized Window
-GameSettingsScreenModeDropdown.Windowed: Windowed
-GameSettingsSkipModeDropdown.Everything: Everything
-GameSettingsSkipModeDropdown.ReadOnly: Read Only
-GameStateSlot.EmptySlotLabel: Empty
-General.Close: CLOSE
-General.Delete: DELETE
-General.Navigate: NAV.
-General.Page: PAGE
-General.Return: RETURN
-General.Scroll: SCROLL
-General.Select: SELECT
-General.Tab: TAB
-General.View: VIEW
-SaveLoadMenu.DeleteSaveSlotMessage: Are you sure you want to delete save slot?
-SaveLoadMenu.OverwriteSaveSlotMessage: Are you sure you want to overwrite save slot?
-SaveLoadMenu.Tab.Load: LOAD
-SaveLoadMenu.Tab.QuickLoad: Q. LOAD
-SaveLoadMenu.Tab.Save: SAVE
-SettingsMenu.AutoDelay: Auto delay
-SettingsMenu.Font: Font
-SettingsMenu.FontSize: Font size
-SettingsMenu.Graphics: Graphics
-SettingsMenu.Language: Language
-SettingsMenu.MessageSpeed: Message speed
-SettingsMenu.Preview: Preview
-SettingsMenu.PreviewText: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mollis vitae tellus a pharetra. Aenean vitae ipsum in est lobortis vulputate.
-SettingsMenu.Resolution: Resolution
-SettingsMenu.ScreenMode: Screen mode
-SettingsMenu.SkipMode: Skip mode
-SettingsMenu.Tab.Basic: BASIC
-SettingsMenu.Tab.Sound: SOUND
-SettingsMenu.Tab.Text: TEXT
-SettingsMenu.VoiceLanguage: Voice language
-SettingsMenu.VolumeEffects: Effects volume
-SettingsMenu.VolumeMaster: Master volume
-SettingsMenu.VolumeMusic: Music volume
-SettingsMenu.VolumeVoice: Voice volume
-TitleMenu.CGGallery: CG GALLERY
-TitleMenu.Continue: CONTINUE
-TitleMenu.Exit: EXIT
-TitleMenu.ExternalScripts: EXTERNAL SCRIPTS
-TitleMenu.NewGame: 新游戏
+CGGallery.Title: CG 画廊
+Confirmation.No: 否
+Confirmation.Yes: 是
+ControlPanel.Auto: 自动
+ControlPanel.Continue: 继续。
+ControlPanel.Hide: 隐藏
+ControlPanel.Load: 读档
+ControlPanel.Log: 日志
+ControlPanel.Menu: 目录
+ControlPanel.QuickLoad: 快速读档
+ControlPanel.QuickSave: 快速存档
+ControlPanel.Rollback: 回退
+ControlPanel.Save: 存档
+ControlPanel.Settings: 设置
+ControlPanel.Skip: 跳过
+ControlPanel.Tips: 提示
+ControlPanel.Title: 标题
+ControlPanelTitleButton.ConfirmationMessage: 您确定要退出到标题屏幕吗？<br>任何未保存的游戏进度都将丢失。
+ExternalScriptsBrowser.Info: 请选择你要播放的脚本
+ExternalScriptsBrowser.Title: 外部脚本
+GameSettingsFontDropdown.DefaultFontName: 默认字体
+GameSettingsFontSizeDropdown.Default: 默认
+GameSettingsFontSizeDropdown.ExtraLarge: 特大
+GameSettingsFontSizeDropdown.Large: 大
+GameSettingsFontSizeDropdown.Small: 小
+GameSettingsGraphicsDropdown.GraphicOption1: 极低
+GameSettingsGraphicsDropdown.GraphicOption2: 低
+GameSettingsGraphicsDropdown.GraphicOption3: 中等的
+GameSettingsGraphicsDropdown.GraphicOption4: 高
+GameSettingsGraphicsDropdown.GraphicOption5: 非常高
+GameSettingsGraphicsDropdown.GraphicOption6: 极高
+GameSettingsScreenModeDropdown.ExclusiveFullScreen: 全屏
+GameSettingsScreenModeDropdown.FullScreenWindow: 全屏窗口
+GameSettingsScreenModeDropdown.MaximizedWindow: 最大化窗口
+GameSettingsScreenModeDropdown.Windowed: 窗口模式
+GameSettingsSkipModeDropdown.Everything: 全部跳过
+GameSettingsSkipModeDropdown.ReadOnly: 已读跳过
+GameStateSlot.EmptySlotLabel: 空
+General.Close: 关闭
+General.Delete: 删除
+General.Navigate: 导航
+General.Page: 页
+General.Return: 返回
+General.Scroll: 滚动
+General.Select: 选择
+General.Tab: 标签
+General.View: 查看
+SaveLoadMenu.DeleteSaveSlotMessage: 确定要删除该存档位吗？
+SaveLoadMenu.OverwriteSaveSlotMessage: 确定要覆盖该存档位吗？
+SaveLoadMenu.Tab.Load: 读档
+SaveLoadMenu.Tab.QuickLoad: 快速读档
+SaveLoadMenu.Tab.Save: 存档
+SettingsMenu.AutoDelay: 自动播放延迟
+SettingsMenu.Font: 字体
+SettingsMenu.FontSize: 字号
+SettingsMenu.Graphics: 画质
+SettingsMenu.Language: 语言
+SettingsMenu.MessageSpeed: 文字速度
+SettingsMenu.Preview: 预览
+SettingsMenu.PreviewText: 这是一段预览文本，用于查看字体与大小效果
+SettingsMenu.Resolution: 分辨率
+SettingsMenu.ScreenMode: 显示模式
+SettingsMenu.SkipMode: 跳过模式
+SettingsMenu.Tab.Basic: 基础
+SettingsMenu.Tab.Sound: 声音
+SettingsMenu.Tab.Text: 文本
+SettingsMenu.VoiceLanguage: 语音语言
+SettingsMenu.VolumeEffects: 音效音量
+SettingsMenu.VolumeMaster: 主音量
+SettingsMenu.VolumeMusic: 背景音乐音量
+SettingsMenu.VolumeVoice: 语音音量
+TitleMenu.CGGallery: CG画廊
+TitleMenu.Continue: 继续游戏
+TitleMenu.Exit: 退出游戏
+TitleMenu.ExternalScripts: 外部脚本
+TitleMenu.NewGame: 新的游戏
 TitleMenu.Settings: 设置
-TitleMenu.Tips: TIPS
-VariableInput.Submit: SUBMIT
+TitleMenu.Tips: 提示
+VariableInput.Submit: 确定

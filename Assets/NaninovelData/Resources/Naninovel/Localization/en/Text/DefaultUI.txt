@@ -1,237 +1,238 @@
 ; Chinese (S) <zh-CN> to English <en> localization document for 'DefaultUI' managed text document
 
-; CG GALLERY
-CGGallery.Title: 
+; CG 画廊
+CGGallery.Title: CG GALLERY
 
-; NO
-Confirmation.No: 
+; 否
+Confirmation.No: No
 
-; YES
-Confirmation.Yes: 
+; 是
+Confirmation.Yes: Yes
 
-; AUTO
-ControlPanel.Auto: 
+; 自动
+ControlPanel.Auto: AUTO
 
-; CONT.
-ControlPanel.Continue: 
+; 继续。
+ControlPanel.Continue: CONT.
 
-; HIDE
-ControlPanel.Hide: 
+; 隐藏
+ControlPanel.Hide: HIDE
 
-; LOAD
-ControlPanel.Load: 
+; 读档
+ControlPanel.Load: LOAD
 
-; LOG
-ControlPanel.Log: 
+; 日志
+ControlPanel.Log: LOG
 
-; MENU
-ControlPanel.Menu: 
+; 目录
+ControlPanel.Menu: MENU
 
-; Q.LOAD
-ControlPanel.QuickLoad: 
+; 快速读档
+ControlPanel.QuickLoad: Q.LOAD 
 
-; Q.SAVE
-ControlPanel.QuickSave: 
+; 快速存档
+ControlPanel.QuickSave: Q.SAVE
 
-; BACK
-ControlPanel.Rollback: 
+; 回退
+ControlPanel.Rollback: BACK
 
-; SAVE
-ControlPanel.Save: 
+; 存档
+ControlPanel.Save: SAVE
 
-; SETTINGS
-ControlPanel.Settings: 
-
-; SKIP
-ControlPanel.Skip: 
-
-; TIPS
-ControlPanel.Tips: 
-
-; TITLE
-ControlPanel.Title: 
-
-; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
-ControlPanelTitleButton.ConfirmationMessage: 
-
-; Select a script to play
-ExternalScriptsBrowser.Info: 
-
-; EXTERNAL SCRIPTS
-ExternalScriptsBrowser.Title: 
-
-; Default
-GameSettingsFontDropdown.DefaultFontName: 
-
-; Default
-GameSettingsFontSizeDropdown.Default: 
-
-; Extra Large
-GameSettingsFontSizeDropdown.ExtraLarge: 
-
-; Large
-GameSettingsFontSizeDropdown.Large: 
-
-; Small
-GameSettingsFontSizeDropdown.Small: 
-
-; Very Low
-GameSettingsGraphicsDropdown.GraphicOption1: 
-
-; Low
-GameSettingsGraphicsDropdown.GraphicOption2: 
-
-; Medium
-GameSettingsGraphicsDropdown.GraphicOption3: 
-
-; High
-GameSettingsGraphicsDropdown.GraphicOption4: 
-
-; Very High
-GameSettingsGraphicsDropdown.GraphicOption5: 
-
-; Ultra
-GameSettingsGraphicsDropdown.GraphicOption6: 
-
-; Full Screen
-GameSettingsScreenModeDropdown.ExclusiveFullScreen: 
-
-; Full Screen Window
-GameSettingsScreenModeDropdown.FullScreenWindow: 
-
-; Maximized Window
-GameSettingsScreenModeDropdown.MaximizedWindow: 
-
-; Windowed
-GameSettingsScreenModeDropdown.Windowed: 
-
-; Everything
-GameSettingsSkipModeDropdown.Everything: 
-
-; Read Only
-GameSettingsSkipModeDropdown.ReadOnly: 
-
-; Empty
-GameStateSlot.EmptySlotLabel: 
-
-; CLOSE
-General.Close: 
-
-; DELETE
-General.Delete: 
-
-; NAV.
-General.Navigate: 
-
-; PAGE
-General.Page: 
-
-; RETURN
-General.Return: 
-
-; SCROLL
-General.Scroll: 
-
-; SELECT
-General.Select: 
-
-; TAB
-General.Tab: 
-
-; VIEW
-General.View: 
-
-; Are you sure you want to delete save slot?
-SaveLoadMenu.DeleteSaveSlotMessage: 
-
-; Are you sure you want to overwrite save slot?
-SaveLoadMenu.OverwriteSaveSlotMessage: 
-
-; LOAD
-SaveLoadMenu.Tab.Load: 
-
-; Q. LOAD
-SaveLoadMenu.Tab.QuickLoad: 
-
-; SAVE
-SaveLoadMenu.Tab.Save: 
-
-; Auto delay
-SettingsMenu.AutoDelay: 
-
-; Font
-SettingsMenu.Font: 
-
-; Font size
-SettingsMenu.FontSize: 
-
-; Graphics
-SettingsMenu.Graphics: 
-
-; Language
-SettingsMenu.Language: 
-
-; Message speed
-SettingsMenu.MessageSpeed: 
-
-; Preview
-SettingsMenu.Preview: 
-
-; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mollis vitae tellus a pharetra. Aenean vitae ipsum in est lobortis vulputate.
-SettingsMenu.PreviewText: 
-
-; Resolution
-SettingsMenu.Resolution: 
-
-; Screen mode
-SettingsMenu.ScreenMode: 
-
-; Skip mode
-SettingsMenu.SkipMode: 
-
-; BASIC
-SettingsMenu.Tab.Basic: 
-
-; SOUND
-SettingsMenu.Tab.Sound: 
-
-; TEXT
-SettingsMenu.Tab.Text: 
-
-; Voice language
-SettingsMenu.VoiceLanguage: 
-
-; Effects volume
-SettingsMenu.VolumeEffects: 
-
-; Master volume
-SettingsMenu.VolumeMaster: 
-
-; Music volume
-SettingsMenu.VolumeMusic: 
-
-; Voice volume
-SettingsMenu.VolumeVoice: 
-
-; CG GALLERY
-TitleMenu.CGGallery: 
-
-; CONTINUE
-TitleMenu.Continue: 
-
-; EXIT
-TitleMenu.Exit: 
-
-; EXTERNAL SCRIPTS
-TitleMenu.ExternalScripts: 
-
-; 新游戏
-TitleMenu.NewGame: newname
 ; 设置
-TitleMenu.Settings: fuck
+ControlPanel.Settings: SETTINGS
 
-; TIPS
-TitleMenu.Tips: 
+; 跳过
+ControlPanel.Skip: SKIP
 
-; SUBMIT
-VariableInput.Submit: 
+; 提示
+ControlPanel.Tips: TIPS
+
+; 标题
+ControlPanel.Title: TITLE
+
+; 您确定要退出到标题屏幕吗？<br>任何未保存的游戏进度都将丢失。
+ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to exit to the title screen? <br>Any unsaved game progress will be lost
+
+; 请选择你要播放的脚本
+ExternalScriptsBrowser.Info: Please select the script you want to play.
+
+; 外部脚本
+ExternalScriptsBrowser.Title: External script
+
+; 默认字体
+GameSettingsFontDropdown.DefaultFontName: Default
+
+; 默认
+GameSettingsFontSizeDropdown.Default: Default
+
+; 特大
+GameSettingsFontSizeDropdown.ExtraLarge: ExtraLarge
+
+; 大
+GameSettingsFontSizeDropdown.Large: Large
+
+; 小
+GameSettingsFontSizeDropdown.Small: Small
+
+; 极低
+GameSettingsGraphicsDropdown.GraphicOption1: very low
+
+; 低
+GameSettingsGraphicsDropdown.GraphicOption2: low
+
+; 中等的
+GameSettingsGraphicsDropdown.GraphicOption3: medium
+
+; 高
+GameSettingsGraphicsDropdown.GraphicOption4: high
+
+; 非常高
+GameSettingsGraphicsDropdown.GraphicOption5: very high
+
+; 极高
+GameSettingsGraphicsDropdown.GraphicOption6: extreme
+
+; 全屏
+GameSettingsScreenModeDropdown.ExclusiveFullScreen: ExclusiveFullScreen
+
+; 全屏窗口
+GameSettingsScreenModeDropdown.FullScreenWindow: FullScreenWindow
+
+; 最大化窗口
+GameSettingsScreenModeDropdown.MaximizedWindow: MaximizedWindow
+
+; 窗口模式
+GameSettingsScreenModeDropdown.Windowed: windowed
+
+; 全部跳过
+GameSettingsSkipModeDropdown.Everything: Skip Everything
+
+; 已读跳过
+GameSettingsSkipModeDropdown.ReadOnly: Skip Read
+
+; 空
+GameStateSlot.EmptySlotLabel: Empty
+
+; 关闭
+General.Close: Close
+
+; 删除
+General.Delete: Delete
+
+; 导航
+General.Navigate: NAV.
+
+; 页
+General.Page: Page
+
+; 返回
+General.Return: Return
+
+; 滚动
+General.Scroll: Scroll
+
+; 选择
+General.Select: Select
+
+; 标签
+General.Tab: Tab
+
+; 查看
+General.View: View
+
+; 确定要删除该存档位吗？
+SaveLoadMenu.DeleteSaveSlotMessage: Delete this save slot?
+
+; 确定要覆盖该存档位吗？
+SaveLoadMenu.OverwriteSaveSlotMessage: Overwrite this save slot?
+
+; 读档
+SaveLoadMenu.Tab.Load: Load
+
+; 快速读档
+SaveLoadMenu.Tab.QuickLoad: Q.Load
+
+; 存档
+SaveLoadMenu.Tab.Save: Save
+
+; 自动播放延迟
+SettingsMenu.AutoDelay: Auto Delay
+
+; 字体
+SettingsMenu.Font: Font
+
+; 字号
+SettingsMenu.FontSize: FontSize
+
+; 画质
+SettingsMenu.Graphics: Graphics
+
+; 语言
+SettingsMenu.Language: Language
+
+; 文字速度
+SettingsMenu.MessageSpeed: Message Speed
+
+; 预览
+SettingsMenu.Preview: Preview
+
+; 这是一段预览文本，用于查看字体与大小效果
+SettingsMenu.PreviewText: This is a preview text to check font and size.
+
+; 分辨率
+SettingsMenu.Resolution: Resolution
+
+; 显示模式
+SettingsMenu.ScreenMode: Screen Mode
+
+; 跳过模式
+SettingsMenu.SkipMode: Skip Mode
+
+; 基础
+SettingsMenu.Tab.Basic: Basic
+
+; 声音
+SettingsMenu.Tab.Sound: Sound
+
+; 文本
+SettingsMenu.Tab.Text: Text
+
+; 语音语言
+SettingsMenu.VoiceLanguage: VoiceLanguage
+
+; 音效音量
+SettingsMenu.VolumeEffects: Effects Volume
+
+; 主音量
+SettingsMenu.VolumeMaster: Master Volume
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: Music Volume
+
+; 语音音量
+SettingsMenu.VolumeVoice: Voice Volume
+
+; CG 画廊
+TitleMenu.CGGallery: CG GALLERY
+
+; 继续游戏
+TitleMenu.Continue: CONTINUE
+
+; 退出游戏
+TitleMenu.Exit: EXIT
+
+; 外部脚本
+TitleMenu.ExternalScripts: EXTERNAL SCRIPTS
+
+; 新的游戏
+TitleMenu.NewGame: NEW GAME
+
+; 设置
+TitleMenu.Settings: SETTINGS
+
+; 提示
+TitleMenu.Tips: TIPS
+
+; 确定
+VariableInput.Submit: SUBMIT
