@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050d909da8f293c4cac3351071715b4d, type: 3}
   m_Name: CustomVariablesConfiguration
   m_EditorClassIdentifier: 
-  PredefinedVariables: []
+  PredefinedVariables:
+  - name: G_Char1_Affection
+    value: 0
+  - name: G_Char2_Affection
+    value: 0
+  - name: G_Char3_Affection
+    value: 0

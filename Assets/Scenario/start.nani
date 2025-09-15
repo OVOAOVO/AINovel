@@ -1,3 +1,9 @@
+@showUI AffectionButton
 hello
+@set G_Char1_Affection=1
+@set G_Char2_Affection=1
+@set G_Char3_Affection=1
+Hello world!
+
 @goto chapter_1_1
 @stop

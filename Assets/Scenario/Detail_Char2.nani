@@ -1,0 +1,16 @@
+@clear
+@back Char3BG
+
+; 显示当前好感度
+Alice 当前好感度：{G_char3}
+
+; 简易进度条（用 10 个方块字符当 bar）
+@print "【"
+@print repeat("■",G_char3/10)
+@print repeat("□",20-G_char3/10)
+@print "】"
+
+; 这里可以继续写专属剧情、CG、语音……
+@choice "返回列表" button:Back_N,Back_H \
+        goto:AffectionUI
+@stop

@@ -144,6 +144,24 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
+    - name: AffectionDetail
+      pathPrefix: UI
+      guid: 6e378a0c59805254489c2414cca8a1dd
+    - name: AffectionButton
+      pathPrefix: UI
+      guid: ff01e17c22bf31e4c80eec654f2eeaa8
+    - name: Affection
+      pathPrefix: UI
+      guid: c93a676bbe43d414d86da0c07b1415f2
+    - name: AffectionDetail1
+      pathPrefix: UI
+      guid: 6e378a0c59805254489c2414cca8a1dd
+    - name: AffectionDetail2
+      pathPrefix: UI
+      guid: d90f4098a54696842a58761419f0217b
+    - name: AffectionDetail3
+      pathPrefix: UI
+      guid: 8baeca94d22281346b2e685fe71d9cc1
   - Id: Scripts
     Resources:
     - name: start
@@ -152,7 +170,59 @@ MonoBehaviour:
     - name: chapter_1_1
       pathPrefix: Scripts
       guid: 4a5f2deed5390d6418f97e5ec77c0b69
+    - name: NaninovelData/Resources/Naninovel/Script/acction
+      pathPrefix: Scripts
+      guid: 3cbb4ce94d63a214197d4d0961d28b72
+    - name: affection
+      pathPrefix: Scripts
+      guid: 34c2fe3886973d64c8964d0a0c6f3cda
+    - name: add_affection
+      pathPrefix: Scripts
+      guid: 1b64130c79d86d24a97d772a06f41662
+    - name: Global
+      pathPrefix: Scripts
+      guid: 83aa7ed40841c7647858e03c2c30d4c8
+    - name: AffectionUI
+      pathPrefix: Scripts
+      guid: cbefce450e8c3e64db1956c411c8ef1b
+    - name: Detail_Char1
+      pathPrefix: Scripts
+      guid: ac55e10d79b3d0848a70fda8581766ac
+    - name: Detail_Char2
+      pathPrefix: Scripts
+      guid: 657471f78f77d1343851251179382835
+    - name: Detail_Char3
+      pathPrefix: Scripts
+      guid: 3aa3d69620acdff4087f90b7ae12aeee
   - Id: Backgrounds/28ee2642-3439-43d7-b682-0d6fdc681817
     Resources: []
   - Id: CharacterAvatars
     Resources: []
+  - Id: Characters/982d9feb-9fbe-4c1a-9be4-89acab0e7442
+    Resources:
+    - name: test1
+      pathPrefix: Characters/char1
+      guid: 16360759e2578420b825206ef0938f92
+    - name: test2
+      pathPrefix: Characters/char1
+      guid: f577db51c28144581808c765e4e5790c
+    - name: test3
+      pathPrefix: Characters/char1
+      guid: 179774750690e42848362932356e6d51
+    - name: test4
+      pathPrefix: Characters/char1
+      guid: 3f0b9325434214847a40fa50b6c55d71
+  - Id: Characters/dc266575-ed64-4f63-8eae-1f92cf304db9
+    Resources:
+    - name: normal
+      pathPrefix: Characters/char1
+      guid: 3f7474c51667b4fca9e9f3b8c01f60a2
+    - name: happy
+      pathPrefix: Characters/char1
+      guid: 16360759e2578420b825206ef0938f92
+    - name: smile
+      pathPrefix: Characters/char1
+      guid: 3f0b9325434214847a40fa50b6c55d71
+    - name: sad
+      pathPrefix: Characters/char1
+      guid: 91e4629b079084fd492d21e907c3e848

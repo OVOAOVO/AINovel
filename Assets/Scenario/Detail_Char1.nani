@@ -1,0 +1,16 @@
+@clear
+; @back Char1BG
+; @Show AffectionDetail
+; 显示当前好感度
+Alice 当前好感度：{G_Char1_Affection}
+
+; 简易进度条（用 10 个方块字符当 bar）
+@print 【
+@print repeat("■",G_char1/10)
+@print repeat("□",20-G_char1/10)
+@print 】
+
+; 这里可以继续写专属剧情、CG、语音……
+@choice 返回列表 button:back
+        goto:AffectionUI
+@stop

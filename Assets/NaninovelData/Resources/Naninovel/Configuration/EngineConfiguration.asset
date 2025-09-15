@@ -24,4 +24,4 @@ MonoBehaviour:
   AutoGenerateMetadata: 1
   NaninovelProjectRoot: 
   EnableDevelopmentConsole: 1
-  DebugOnlyConsole: 0
+  DebugOnlyConsole: 1

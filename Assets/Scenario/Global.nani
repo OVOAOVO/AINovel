@@ -1,0 +1,10 @@
+; 全局好感度
+@if "G_char1==null"
+    @set G_char1=0
+@if "G_char2==null"
+    @set G_char2=0
+@if "G_char3==null"
+    @set G_char3=0
+
+; 隐藏对话框，避免挡住 UI
+@hidePrinter

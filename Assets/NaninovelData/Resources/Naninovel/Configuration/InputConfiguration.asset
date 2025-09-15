@@ -29,7 +29,7 @@ MonoBehaviour:
     Swipes: []
   - Name: Cancel
     AlwaysProcess: 1
-    Keys: 1b0000004b010000
+    Keys: 1b000000
     Axes: []
     Swipes: []
   - Name: Delete
