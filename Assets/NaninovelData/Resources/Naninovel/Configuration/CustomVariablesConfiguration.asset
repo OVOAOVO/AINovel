@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PredefinedVariables:
   - name: G_Char1_Affection
-    value: 0
+    value: 100
   - name: G_Char2_Affection
     value: 0
   - name: G_Char3_Affection
