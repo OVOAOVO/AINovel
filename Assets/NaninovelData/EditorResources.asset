@@ -144,6 +144,9 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
+    - name: TitleText
+      pathPrefix: UI
+      guid: 771e0d9ba9b517749b3b23983cb3a4e5
   - Id: Scripts
     Resources:
     - name: start
@@ -152,7 +155,41 @@ MonoBehaviour:
     - name: chapter_1_1
       pathPrefix: Scripts
       guid: 4a5f2deed5390d6418f97e5ec77c0b69
+    - name: chapter_1/chapter_1_1_2
+      pathPrefix: Scripts
+      guid: f62d0a25757057a46ae75ce18e9b86f7
+    - name: chapter_1/chapter_1_1_3
+      pathPrefix: Scripts
+      guid: a2686a0a780c50c4b9c61336451678a3
+    - name: chapter_1/chapter_1_1_1
+      pathPrefix: Scripts
+      guid: 3ba324075b23a874f84766840d643e72
+    - name: Macros
+      pathPrefix: Scripts
+      guid: 3e3032dc3a9259849ba39c24ec3b86e4
+    - name: chapter_1/chapter_1_1_4
+      pathPrefix: Scripts
+      guid: 63de204a4d88bed4c96fe74dfbb09740
   - Id: Backgrounds/28ee2642-3439-43d7-b682-0d6fdc681817
     Resources: []
   - Id: CharacterAvatars
+    Resources: []
+  - Id: Characters/18692b4c-beb1-4da8-af82-ba3a756a8426
+    Resources:
+    - name: smile
+      pathPrefix: Characters/Test_A
+      guid: f24fc458c4be14b45a28dfea32480258
+    - name: half
+      pathPrefix: Characters/Test_A
+      guid: 0e325c69ff3cab8428107c09f89fb58e
+  - Id: Characters/fa37c606-689c-403b-a372-d473d375b3a1
+    Resources:
+    - name: TestB_Full_Smile_ps
+      pathPrefix: Characters/Test_B
+      guid: 520af822398829548997313be1bfd23f
+  - Id: Characters/55663007-0fae-44c5-8472-b3802d7ac1ea
+    Resources: []
+  - Id: Characters/53217383-1499-4360-a7a2-8b85105a00c5
+    Resources: []
+  - Id: Characters/526f1188-59e5-42f4-b101-c98a918c9314
     Resources: []
