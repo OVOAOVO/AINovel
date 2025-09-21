@@ -1,0 +1,376 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_1_2' Naninovel scenario script
+
+# ~83fb2a19
+; 【早晨 · 律院宿舍】
+[Morning · Law Academy Dormitory]
+
+# ~e4bd75e0
+; （鸟鸣声伴随着钟声，宿舍走廊传来脚步与叮叮当当的收拾声。）
+(The sound of birds blends with the bell as footsteps and clattering echo through the dorm hallway.)
+
+# ~f82eb695
+; ……清晨。
+...Morning.
+
+# ~77755ef5
+; > Test_C: |#~77755ef5|
+; 钟声一如既往地响起，准确而刺耳，比闹钟还要准时。
+The bell rings as always—sharp, precise, more reliable than any alarm clock.
+
+# ~36ded490
+; > Test_C: |#~36ded490|
+; 回想昨日入学的情形，大概可以这样概括：
+Looking back on yesterday’s enrollment, it can be summed up like this:
+
+# ~a95dff37
+; > Test_C: |#~a95dff37|
+; 思绪仍然空白，胃口却满足，心情则显得复杂。
+Your mind is still blank, your stomach satisfied, your mood... complicated.
+
+# ~19fcfc59
+; (同学 C在门口拍门。)
+(Classmate C knocks on the door.)
+
+# ~1fe8505d
+; > Test_D: |#~1fe8505d|
+; “喂，快点！今天要选社团，不去的话就只能被系统分配了。”
+Hey, hurry up! Today’s club selection day. If you don’t go, you’ll get auto-assigned.
+
+# ~b76c9de
+; > Test_C: |#~b76c9de|
+; ……选社团。
+...Club selection.
+
+# ~2053f2cd
+; 听起来是个美好的机会，但心中却隐隐觉得，等待的或许并非轻松，而是另一种负担。
+It sounds like a great opportunity, but something tells me it’s not freedom waiting ahead—just another kind of burden.
+
+
+# ~fa944aff
+; 【律院社团招新广场】
+[Law Academy Club Recruitment Plaza]
+
+# ~4debcc4d
+; (广场上挂满旗帜，摊位林立。各个社团学生卖力吆喝，热闹非凡。空气中混杂着油炸食物的香味和墨水气息。)
+(The plaza is lined with banners and booths. Students shout enthusiastically. The air is thick with the smell of fried food and ink.)
+
+# ~bb9e14c0
+; > Test_C: |#~bb9e14c0|
+; 比开学典礼还热闹。
+Even livelier than the opening ceremony.
+
+# ~2643b8ef
+; > Test_C: |#~2643b8ef|
+; 这里能看到“秩印研习会”、“秩律辩论社”、“量子棋协会”，
+There’s the Order Seal Study Society, the Order Law Debate Club, the Quantum Chess Association—
+
+# ~11ac495
+; > Test_C: |#~11ac495|
+; 甚至还有“高等烹饪研究小组”。
+...even an Advanced Culinary Research Group.
+
+# ~2f7f2dc
+; (眼睛一亮)
+(Your eyes light up.)
+
+# ~9ada789f
+; > Test_C: |#~9ada789f|
+; ……要去哪一个呢？
+...Which one should I join?
+
+# ~790241e8
+; (正准备走向其中一个摊位时，诺维娅拦了过来。)
+(Just as you step toward a booth, Nova blocks your path.)
+
+# ~34c47e8b
+; > Test_A: |#~34c47e8b|
+; 不要想太多。‘秩印研习会’才是正道。
+Don’t overthink it. The Order Seal Study Society is the only real choice.
+
+# ~910e00b8
+; > Test_A: |#~910e00b8|
+; 如果真心想在律院有所成就，就必须接触更多律源案例。
+If you truly want to succeed here, you need to study real Order Source cases.”
+
+# ~b83bd315
+; (另一边，薇拉正靠在“自由创意社”的牌子旁，晃着手里的笔。)
+(Meanwhile, Violet leans against the “Free Creativity Club” sign, twirling a pen.)
+
+# ~1de4fc19
+; > Test_B: |#~1de4fc19|
+; 别被吓唬了。社团是学生的最后乐土。
+Don’t let them scare you. Clubs are the last sanctuary for students.
+
+# ~f352bb1
+; > Test_B: |#~f352bb1|
+; 在这里，你完全可以画画、写东西、做梦……甚至什么都不做。
+Here, you can draw, write, dream... or do nothing at all.
+
+# ~a13b26be
+; > Test_C: |#~a13b26be|
+; 社团选择，似乎也是一种立场。
+Choosing a club... feels like choosing a side.
+
+# ~5da0b963
+; > @choice |#~5da0b963|
+; 乖乖加入
+Join obediently
+
+# ~d105f550
+; > → 诺维娅好感↑， 触发：律源学课外案例剧情
+; > @choice |#~d105f550|
+; 跟着薇拉去
+Follow Violet
+
+# ~442e6975
+; > → 薇拉好感↑   触发：“艺术与质疑”支线
+; > @choice |#~442e6975|
+; 偷溜去
+
+
+
+# ~442e6975
+; 偷溜去
+- Sneak off
+
+---
+
+# ~82ba2969
+; 【上午 · 教室】
+[Morning · Classroom]
+
+# ~d50b6262
+; (新课题：律印应用学。导师展示秩杖，投射出秩印条款幻影，冷冷开讲。)
+(New subject: Applied Order Seal Studies. The instructor raises his staff, projecting Order Seal clauses in midair.)
+
+# ~1a65b68b
+; > Test_DS: |#~1a65b68b|
+; “律印不是死板的文字，而是活的律条。
+Test_DS: “The Order Seal is not dead text—it is living law.
+
+# ~f4c5480d
+; > Test_DS: |#~f4c5480d|
+; “今天随堂小测，检测各位对三十六条核心律的掌握程度。”
+Test_DS: “Today’s pop quiz will test your grasp of the thirty-six core clauses.”
+
+# ~7aa22091
+; > Test_C: |#~7aa22091|
+; （课堂气氛骤然紧张，才刚开学，就被抛来一次突袭测验。）
+Test_C: (The room tenses. A pop quiz already?)
+
+# ~f83fa854
+; > Test_C: |#~f83fa854|
+; （同学们纷纷拿起笔。试卷内容全是律条填空与简答。）
+Test_C: (Students pick up their pens. The quiz is all fill-in-the-blanks and short answers.)
+
+# ~f94dfc79
+; > Test_A: |#~f94dfc79|
+; ……第七条，禁止私斗；第十二条，禁止欺诈……
+Test_A: “...Clause 7: prohibits private duels; Clause 12: prohibits fraud...”
+
+# ~7987b721
+; > Test_A: |#~7987b721|
+; （她神情冷静，速度飞快。）
+Test_A: (She’s calm and lightning-fast.)
+
+# ~b92d31aa
+; > Test_B: |#~b92d31aa|
+; 呵，小测而已。
+Test_B: “Hah, just a quiz.
+
+# ~2f91182c
+; > Test_B: |#~2f91182c|
+; 只要写得像模像样，导师未必会认真看。
+Test_B: As long as it looks decent, the instructor probably won’t even read it.”
+
+# ~1b16517
+; > Test_B: |#~1b16517|
+; （她甚至在边角随手画了个小人。）
+Test_B: (She even doodles a little figure in the margin.)
+
+# ~863b5659
+; > 您：
+; > Test_C: |#~863b5659|
+; （题目逐条压来，若没有牢牢记住条款，能写下的内容少之又少；
+Test_C: (Clause after clause—if you didn’t memorize them, there’s almost nothing to write;
+
+# ~3b139c7e
+; > Test_C: |#~3b139c7e|
+; 若是胡乱应付，又可能招来导师冷眼。）
+Test_C: but if you fake it, the instructor’s cold stare awaits.)
+
+---
+
+# ~ebe9c56
+; > @choice |#~ebe9c56|
+; 死记硬背，尽量把昨天课上听到的律条写全
+- Memorize and write every clause you heard yesterday
+
+# ~f09b361b
+; → 诺维娅满意，好感↑
+→ Nova is pleased, affinity ↑
+
+# ~da1ff6bc
+; 乱编答案，甚至写“人类的未来是早餐”之类的鬼话
+- Make up nonsense like “ Humanity’s future is breakfast ”
+
+# ~da1ff6bc
+; → 薇拉偷笑，好感↑
+→ Violet snickers, affinity ↑
+
+# ~da1ff6bc
+; 空白交卷，装出一副“我在深思”的样子
+- Hand in a blank sheet with a “deep in thought” expression
+
+---
+
+# ~e43dc4b2
+; 【午间 · 食堂】
+[Noon · Cafeteria]
+
+# ~b4af0fe
+; （今天的餐盘里有新品：炖肉丸子。食堂里热闹非凡。）
+(Today’s special: stewed meatballs. The cafeteria is buzzing.)
+
+# ~cf259478
+; > 您：
+; > Test_C: |#~cf259478|
+; 呼……不管学什么，这顿饭都很值得期待。
+Test_C: Whew... no matter what we’re learning, this meal is worth looking forward to.
+
+# ~35a81921
+; > Test_C: |#~35a81921|
+; 炖肉丸子，看起来很不错。
+Test_C: Those meatballs look amazing.
+
+# ~42023cf9
+; > Test_C: |#~42023cf9|
+; （正低头吃着，旁边几个高年级学长在低声讨论社团排名和律院内部的情况。）
+Test_C: (While eating, you overhear seniors whispering about club rankings and internal academy politics.)
+
+# ~3f8d985
+; > 学长甲（压低声音）：
+; > Test_D: |#~3f8d985|
+; 听说今年律印研习会和自由创意社会起冲突，
+Test_D: Rumor has it the Order Seal Society and the Creativity Club will clash this year—
+
+# ~a3fd4768
+; > Test_D: |#~a3fd4768|
+; 院方可能会整顿……小心点。”
+Test_D: The administration might step in... watch yourself.”
+
+# ~89559d10
+; > 您：
+; > Test_C: |#~89559d10|
+; 这是新的信息，值得注意。
+Test_C: That’s new... and worth remembering.
+
+# ~7975ace1
+; > Test_C: |#~7975ace1|
+; 不过好像在哪听过这两个社团啊？........
+Test_C: Wait, haven’t I heard those two clubs mentioned before?...
+
+# ~b2ac9ae6
+; 不过手里的炖肉丸子很香，暂时也能让人把注意力集中在眼前的餐盘上。
+But these meatballs are fragrant, and for now, they keep my focus on the plate.
+
+---
+
+# ~2fad311
+; 【下午 · 律院图书馆】
+[Afternoon · Law Academy Library]
+
+# ~39a9ec2d
+; （导师布置了查阅资料的任务。图书馆宏伟肃穆，秩印浮光照亮书架。）
+(The instructor assigns a research task. The library is grand and silent, Order Seal light glowing over the shelves.)
+
+# ~b3d8664c
+; （本来想打盹，却在书缝里发现一本残旧的笔记夹。里面夹着一段模糊的手稿，内容对秩印条款的来源提出了疑问。）
+(You’re about to doze off when you spot an old folder wedged between books. Inside: a faded manuscript questioning the origin of the Order Seal clauses.)
+
+# ~b7890b83
+; > Test_C: |#~b7890b83|
+; ……咦？
+Test_C: ...Huh?
+
+# ~9b544991
+; > Test_C: |#~9b544991|
+; ……这本笔记看起来不像官方教材。
+Test_C: This doesn’t look like an official text.
+
+# ~448500cd
+; > Test_C: |#~448500cd|
+; 会不会是某位前辈留下的？
+Test_C: Could this be from a senior?
+
+# ~93cdba51
+; （正犹豫时，诺维娅出现在身后，皱眉。）
+(Just as you hesitate, Nova appears behind you, frowning.)
+
+# ~4d6880b4
+; > Test_A: |#~4d6880b4|
+; 那不是律院认可的书。快放回去。
+Test_A: “That’s not an approved text. Put it back—now.”
+
+# ~acc805da
+; （另一边，薇拉却凑了过来，眼神发亮。）
+(Meanwhile, Violet leans in, eyes sparkling.)
+
+# ~8ac9b2d8
+; > Test_B: |#~8ac9b2d8|
+; 哦？这就有意思了。
+Test_B: Oh? Now this is interesting.
+
+# ~be4271f6
+; > Test_B: |#~be4271f6|
+; 要不要一起研究一下？”
+Test_B: Want to dig into it together?”
+
+---
+
+# ~26a0393f
+; > → 安全路线，好感↑（A）
+; > @choice |#~26a0393f|
+; 听
+- Listen to Nova
+
+# ~6295b4c5
+; > → 冒险路线，好感↑（B）
+; > @choice |#~6295b4c5|
+; 抄夹在书里忘了交
+- Sneak it into your book and forget to return it
+
+---
+
+# ~3b563cd2
+; 【傍晚 · 宿舍庭院】
+[Evening · Dormitory Courtyard]
+
+# ~872f319d
+; （夕阳落下，钟声回荡。学生三三两两散去。）
+(The sun sets, bells echo. Students drift off in small groups.)
+
+# ~93bb5b1c
+; 早晨是社团选择，上午是随堂小测，中午吃了炖肉丸子，下午翻阅了笔记。
+Morning: club choice. Noon: pop quiz. Lunch: meatballs. Afternoon: mysterious notes.
+
+# ~3f517ab7
+; 开学的第一天经历了不少事情。
+The first full day has already thrown a lot at you.
+
+# ~dfe4bdfc
+; 唯一可以放松的，就是食堂的饭菜。
+The only real comfort so far? The cafeteria food.
+
+# ~bf677304
+; （远处，诺维娅正在收拾书卷，表情认真。薇拉独自坐在长椅上，笔尖在纸上写着不明符号。天空中的秩印投影依旧冷冷闪烁。）
+(In the distance, Nova neatly packs her books, serious as ever. Violet sits alone on a bench, scribbling strange symbols. The Order Seal still glimmers coldly overhead.)
+
+# ~6bca94c4
+; 【心声】
+[Inner Voice]
+
+# ~92091a66
+; > Test_C: |#~92091a66|
+; 一切似乎暂时平静下来。
+Test_C: For now, everything seems... calm.

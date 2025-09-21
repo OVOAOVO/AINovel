@@ -1,6 +1,6 @@
 notbad
-@loadScene 主界面 additive!
+@loadScene Demo additive!
 加载界面
-@unloadScene 主界面
+@unloadScene Demo
 unloadscene1
 @stop

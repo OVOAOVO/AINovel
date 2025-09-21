@@ -1,5 +1,57 @@
 ; Chinese (S) <zh-CN> to English <en> localization document for 'start' Naninovel scenario script
 
-# ~f780d972
-; hello
+# ~330d72da
+; 自古以来，世界因“秩源”而运转。
+Since ancient times, the world has operated by the "Order Source."
 
+# ~4d724fcc
+; 那是超越语言的根基，一切科技、魔法、道术、仙术、超能力……皆从中流淌而出。
+It is the foundation beyond language, from which all technology, magic, Daoist arts, immortality techniques, and supernatural powers flow.
+
+# ~b96a12b0
+; 异族诞生于山川灵息，承载天道；
+The other races were born from the spiritual breath of mountains and rivers, bearing the will of Heaven.
+
+# ~307dcb5f
+; 兽裔源于血与肉的进化，以战为尊；
+The beastfolk evolved through blood and flesh, honoring strength and battle above all.
+
+# ~dfcf8e86
+; 机械智能体由残骸自组，称自己为“秩外之民”；
+Mechanical intelligences self-assembled from ruins, calling themselves "those beyond the Order."
+
+# ~cb76e5dd
+; 而人类……在所有族群中最为脆弱，却最狡黠。
+And humanity... the frailest of all races, yet the most cunning.
+
+# ~dbc93f21
+; 在漫长的杀戮年代，血火淹没了大地。
+In the long age of slaughter, blood and fire consumed the earth.
+
+# ~d1ca9842
+; 最终，人类创造了改变历史的枷锁——
+In the end, humanity forged the chain that would change history—
+
+# ~22cd24f1
+; “秩印”。
+—the "Order Seal."
+
+# ~e7d7192a
+; 那是一种烙刻于灵魂的契约，监控情绪、压制杀意、干预意志。
+It is a contract etched into the soul, monitoring emotions, suppressing murderous intent, and intervening in will.
+
+# ~d21a5655
+; 自此之后，人类社会不再有谋杀，不再有战争。
+From then on, murder and war vanished from human society.
+
+# ~36ed96b0
+; 法律取代了神祇，成为新的信仰。
+Law replaced the gods, becoming the new faith.
+
+# ~4db4d3c
+; 人类国家因之得名——
+And thus, the human nation was named—
+
+# ~473760e4
+; “秩序之国”。
+—the "Kingdom of Order."

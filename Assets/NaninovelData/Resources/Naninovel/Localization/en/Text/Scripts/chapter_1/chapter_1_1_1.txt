@@ -1,0 +1,389 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_1_1' Naninovel scenario script
+
+# ~83b9db9a
+; 【律院】
+[Law Academy]
+
+# ~a09a9f07
+; 开学了。
+The new semester has begun.
+
+# ~b5d46a10
+; 学校照例举行了仪式，气氛很隆重，像是在宣告一个新的开始。
+As always, the academy held a grand ceremony—an announcement of a new beginning.
+
+# ~634d9eea
+; 对你来说，只是暑假结束了，书包里多了几本新书。
+To you, it’s simply the end of summer break and a few new books in your bag.
+
+# ~262a20cd
+; 班里很多人情绪高涨，说要努力学习，要让自己有所改变。
+Many classmates are energized, vowing to study hard and become better.
+
+# ~daadd992
+; 你没有什么特别的想法。
+You have no special ambitions.
+
+# ~ded23d6
+; 成绩方面，你大概算是中等偏上。
+Academically, you’re slightly above average.
+
+# ~5bd0d835
+; 特长也不突出。
+You have no standout talents.
+
+# ~a78b534f
+; 总结的话，就是：对别人来说，开学是一个新的起点；
+In short: for others, the new term is a fresh start;
+
+# ~d7cf1085
+; 对你来说，只是回到学生的日常。
+for you, it’s just a return to student routine.---
+
+# ~4dedc2b9
+; 【律院 · 开学广场】
+[Law Academy · Opening Plaza]
+
+# ~f9dc409e
+; （晨雾初散，广场中央的巨大秩印投影散发着冷冽光辉，整个城市的钟声回荡不绝。）
+(Morning mist lifts; the giant Order Seal projection at the plaza’s center glows coldly as city-wide bells echo.)
+
+# ~6ece5142
+; （广场中央，巨大的秩印投影散发着冷冽光辉，晨雾逐渐散开。）
+(At the plaza’s heart, the massive Order Seal projection casts a chill light while morning fog slowly dissipates.)
+
+# ~11fe0456
+; 你抬头望着秩印投影。它悬浮在空中，没有动作，却让人感到一种无法忽视的存在感。
+You look up at the Seal. It hangs motionless, yet its presence is unmistakable.
+
+# ~a1fd5cda
+; 学生们依次排队入场。导师站在台上，庄重地宣读着开学的训辞。
+Students file in orderly lines. On the stage, an instructor solemnly delivers the opening address.
+
+# ~2cfcaa6
+; > Test_DS: |#~2cfcaa6|
+; 自秩印诞生以来，人类再无杀戮。
+Since the birth of the Order Seal, humanity has known no murder.
+
+# ~ae2bb17a
+; > Test_DS: |#~ae2bb17a|
+; 律院，便是守护这份和平的根基。
+The Law Academy exists to safeguard this peace.
+
+# ~60cda4b1
+; > Test_DS: |#~60cda4b1|
+; 愿诸位谨记：学习律源学，便是守护秩序的第一步。
+Remember: studying the Order Source is the first step in preserving order.
+
+# ~20a3467
+; （导师的训辞逐渐结束，钟声回荡在广场上。）
+(The speech ends; bells echo across the plaza.)
+
+# ~1b85e83c
+; 你在原地记下了训辞的内容。
+You silently memorize the words.
+
+# ~c1c0d7ef
+; 广场另一侧，诺维娅端坐着，神情专注，似乎在逐字倾听。
+On the other side of the square, Novia was sitting upright, her expression concentrated, as if listening word by word.
+
+# ~d578020d
+; 而薇拉则抱着手臂，半眯着眼，没有表现出太多在意的样子。
+Vera, on the other hand, crossed her arms, half-closed her eyes, and didn't show much concern.
+
+# ~57581f84
+; 【班级教室】
+[Classroom]
+
+# ~1c3252c4
+; （第一节课——律源学基础。讲台上，年迈导师拄着秩杖，语气像秩印一样冷冰冰。）
+(First period—Fundamentals of Order Source. On the podium, an elderly instructor leans on a staff, his tone as cold as the Order Seal.)
+
+# ~ced5cb69
+; > Test_DS: |#~ced5cb69|
+; 律源学是秩序之国的核心学科。
+The study of the source of law is the core discipline of the Land of Order.
+
+# ~ecbb9780
+; > Test_DS: |#~ecbb9780|
+; 记住，秩印的条款并非约束，而是庇护。
+Remember, the clauses of the Order Seal are not restrictions, but protection.
+
+# ~7b5f780d
+; > Test_DS: |#~7b5f780d|
+; 诸位的第一份任务，便是背诵秩印三十六条核心律。
+The first task for all of you is to recite the 36 core laws of the Rank Seal.
+
+# ~e6322422
+; （导师话音落下，教室里传来一阵窸窣声。书页翻动，同学们纷纷拿起教材，开始低声背诵。）
+(As the instructor finishes, rustling fills the room. Students open their books and begin reciting under their breath.)
+
+# ~3a731ddc
+; > Test_C: |#~3a731ddc|
+; 你翻开书本，视线在文字间移动，努力辨认并记住内容。
+You open your book, eyes scanning the lines, trying to memorize them.
+
+# ~2353be5d
+; 前排的诺维娅已经开始流畅地复诵，语调清晰而坚定，像是在将条文逐字刻画。
+Novia in the front row had already begun to recite fluently, her tone clear and resolute, as if she were depicting the text word by word.
+
+# ~ef77befa
+; 薇拉则慢悠悠地翻着书页，嘴角含着若有若无的弧度，像是在把这堂课当作一场旁观。
+Vera, on the other hand, slowly turned the pages of the book, with a faint curve at the corner of her mouth, as if she were merely observing this class.
+
+# ~15973f0d
+; > Test_B: |#~15973f0d|
+; 条条框框，背了也没用。
+All the rules and regulations are of no use even if memorized.
+
+# ~c32f817d
+; > Test_B: |#~c32f817d|
+; 人心不是能被三十六条约束的。
+The human heart cannot be bound by the thirty-six points.
+
+# ~3b50168d
+; （她斜眼瞥过来，像是随口把话抛给你。）
+(She glances sideways, tossing the remark your way.)
+
+# ~61e1e1bc
+; > Test_B: |#~61e1e1bc|
+; 你觉得呢？
+What do you think?
+
+# ~5a284c17
+; > @choice "\|#~5a284c17|"
+; "装模作样，照着条文背诵
+Pretend to recite the clauses by the book
+
+# ~1f61952
+; > → 向诺维娅 靠拢，好感↑（守秩派）
+; > @choice |#~1f61952|
+; 随口敷衍，表示背不下去
+Brush it off and say you can’t memorize them
+
+# ~c50be2ad
+; 【午间】
+[Noon]
+
+# ~f0b7b81
+; （下课铃响，学生们在食堂排队。热气腾腾的餐盘中，肉饼、面包、蔬菜香味扑鼻。）
+(The bell rings. Students queue in the cafeteria. Steam rises from plates of meat pies, bread, and vegetables.)
+
+# ~da803aee
+; > Test_C: |#~da803aee|
+; 终于……！
+Finally…!
+
+# ~433c89b0
+; > Test_C: |#~433c89b0|
+; 这才是开学该有的环节，吃饭才是动力源泉。
+This is what school’s really about—food is the real motivation.
+
+# ~928be95b
+; 你狼吞虎咽地吃着
+You are gobbling up your food
+
+# ~5ca8d1e7
+; 诺维娅坐在不远处，端庄地用餐，看起来一丝不苟。
+Novia was sitting not far away, dining gracefully and looking meticulous.
+
+# ~bd038c8a
+; 薇拉则一边拨弄食物，一边像在盘子边缘勾勒图案。
+Vera, while fiddling with the food, seemed to be outlining patterns along the edge of the plate.
+
+# ~f71fc144
+; > Test_A: |#~f71fc144|
+; 刚才的课，你态度太散漫了。秩印不是儿戏，它关乎我们所有人的未来。
+Your attitude was too casual in the class just now. The rank seal is no joke; it concerns the future of all of us.
+
+# ~3ae52ca6
+; 你默默低下头，心里感受到了一丝被提醒的压力。
+You lower your head, feeling the weight of her words.
+
+# ~a9252133
+; > Test_B: |#~a9252133|
+; （笑着插话）：
+(Interjects with a smile):
+
+# ~b53451df
+; > Test_B: |#~b53451df|
+; 未来？呵，未来才没这么死板呢。
+The future? Oh, the future won't be so rigid.
+
+# ~191eca45
+; > Test_B: |#~191eca45|
+; 人类如果只有秩印，还算是人类吗？
+If a human being only has the rank seal, can it still be considered human?
+
+# ~17793ee3
+; （两人对视，火花四溅，你尴尬夹在中间，嘴里还塞着半块肉饼。）
+(They lock eyes—sparks fly. You’re stuck between them, cheeks bulging with half a meat pie.)
+
+# ~bc260c18
+; > Test_C: |#~bc260c18|
+; 你吃着食物，注意力更多在餐盘上。
+You focus on your plate, trying to stay out of it.
+
+# ~348cb81a
+; 食堂里传来一阵骚动，有几个人在比拼谁能最快喝完一碗汤，你的目光被吸引过去。
+A commotion breaks out—some students are racing to finish soup. Your gaze drifts.
+
+# ~54428212
+; > Test_C: |#~54428212|
+; 哦，速度赛。
+Oh, a speed contest.
+
+# ~84101fcd
+; > Test_C: |#~84101fcd|
+; 你吃着食物，注意力更多在餐盘上。学习暂且不提，但吃饭这件事，也可以参与一下。
+You’re still eating, but now you’re tempted to join in.
+
+# ~37b6d5de
+; 刚准备站起来，诺维娅投来了警告的目光，你便停下动作。
+Just as you were about to stand up, Novia cast a warning look at you, and you stopped moving.
+
+# ~18d9877f
+; > Test_A: |#~18d9877f|
+; 你别想过去添乱。律院不是菜市场。
+Don't even think about causing trouble. A law firm is not a vegetable market.
+
+# ~d398eb75
+; > Test_C: |#~d398eb75|
+; ……哦。
+...Right.
+
+# ~e44b58c7
+; （乖乖坐下，把屁股焊在椅子上。）
+(You sit properly, gluing your butt to the chair.)
+
+# ~285da42e
+; 薇拉靠近你，轻声说：
+Vera came close to you and said softly:
+
+# ~841ab0c2
+; > Test_B: |#~841ab0c2|
+; 如果你想参加，可以试一试。
+If you want to participate, you can give it a try.
+
+# ~ef752fb8
+; > Test_B: |#~ef752fb8|
+; 输了，需要完成三十六条秩印的练习；
+Lose, and you’ll have to write out all thirty-six Order Seal clauses;
+
+# ~ab5e0fa7
+; > Test_B: |#~ab5e0fa7|
+; 赢了，可以多拿一块食物。
+Win, and you get an extra serving."
+
+# ~491cd0d
+; > Test_B: |#~491cd0d|
+; 你觉得如何？
+What do you think?
+
+# ~424ad623
+; 你看了看诺维娅的目光，意识到不宜贸然行动，只好暂时放弃站起来的打算。
+You looked into Novia's eyes and realized that it was not advisable to act rashly, so you had to temporarily give up the idea of standing up.
+
+# ~e8980335
+; 【下午 · 律院走廊】
+[Afternoon · Law Academy Corridor]
+
+# ~85337975
+; （午饭后，学生们分组前往不同教室。走廊里阳光透过彩绘玻璃洒下斑驳光影。）
+(After lunch, students split into groups. Sunlight filters through stained glass, casting colorful patterns.)
+
+# ~83f9c407
+; （昏昏欲睡，打着哈欠，忽然有人从后面拍了你一下。）
+(Drowsy and yawning, someone suddenly slaps your back.)
+
+# ~5011efdc
+; > Test_D: |#~5011efdc|
+; 喂，你刚才午饭吃得太快了吧？
+Hey, did you eat lunch too fast just now?
+
+# ~49c2a980
+; > Test_D: |#~49c2a980|
+; 下午可是要分班小测的，别到时候吐在卷子上。
+There will be a class quiz this afternoon. Don't throw up on the test paper then.
+
+# ~14db9ec9
+; > Test_C: |#~14db9ec9|
+; ……还有小测？
+...There’s a quiz?
+
+# ~317ecb3e
+; > Test_C: |#~317ecb3e|
+; 开学的节奏似乎比想象中更紧。
+The pace of school is tighter than expected.
+
+# ~a66beaa9
+; （诺维娅走在前方，听见了，回头补刀。）
+Novia was walking ahead and heard it. She turned around to cut back.
+
+# ~ff4b1971
+; > Test_A: |#~ff4b1971|
+; 如果连课堂都坚持不下去，那就不配站在律院的讲堂里。
+"If you can’t handle class, you don’t deserve to stand in this academy."
+
+# ~2df0330d
+; > Test_C: |#~2df0330d|
+; 你默默记下。
+You quietly take note.
+
+# ~d11045e8
+; 导师说过“秩印不是儿戏”，而她的话又是“不配”。
+The instructor said the Order Seal isn’t a joke—and now, “you don’t deserve.”
+
+# ~56e7bf85
+; 律院的标准与要求，显然远超一般的想象。
+The academy’s standards are clearly far beyond normal.
+
+# ~86d9ad4f
+; （薇拉在一旁轻声笑了笑，没说话，只是意味深长地看了男主一眼。）
+Vera chuckled softly by the side, saying nothing, merely giving the male lead a meaningful look.
+
+# ~8d6f9429
+; 【傍晚 · 律院庭院】
+[Evening · Law Academy Courtyard]
+
+# ~2b4a133e
+; （暮色降临，广场的秩印投影在夜空中更显冷峻。学生们在草坪上三三两两散步，准备回宿舍。）
+(Dusk falls. The Order Seal projection looks even colder against the night sky. Students stroll across the lawn, heading back to dorms.)
+
+# ~e7261aaf
+; > Test_C: |#~e7261aaf|
+; 终于可以结束一天的课程了。
+Finally, the day’s classes are over.
+
+# ~182ae8ec
+; > Test_C: |#~182ae8ec|
+; 若要总结今日的感受，大致是：
+If you had to summarize today:
+
+# ~ca72f622
+; > Test_C: |#~ca72f622|
+; 用餐算得上愉快，课堂的紧张远超预期，而与同学的交流则让气氛格外复杂。
+Lunch was decent, classes more intense than expected, and interacting with classmates made everything... complicated.
+
+# ~722c93ef
+; (远处，诺维娅正与一群学生讨论律源课题，神采飞扬。)
+(In the distance, Novia was discussing the topic of law sources with a group of students, full of energy.)
+
+# ~d81cc9fe
+; (薇拉则独自坐在喷泉边，手里拿着小本子，神情若有所思。)
+(Vera sat alone by the fountain, holding a small notebook in her hand, her expression lost in thought.)
+
+# ~83ad5e1
+; 你停下脚步，视线在两边之间徘徊，一时难以决定该走向何处。
+You pause, gaze shifting between them—unsure which way to go.
+
+# ~37c7543f
+; > @choice |#~37c7543f|
+; 走向诺维娅，假装认真听她讨论
+Walk towards Nova and pretend to listen carefully to her discussion
+
+# ~199a24bf
+; > → 好感↑（守秩派），解锁更多律源学细节
+; > @choice |#~199a24bf|
+; 走向薇拉，坐下随便聊聊
+Walk over to Violet, sit down and have a casual chat
