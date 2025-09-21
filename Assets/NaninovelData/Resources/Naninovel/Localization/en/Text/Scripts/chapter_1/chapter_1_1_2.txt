@@ -126,12 +126,7 @@ Follow Violet
 ; > → 薇拉好感↑   触发：“艺术与质疑”支线
 ; > @choice |#~442e6975|
 ; 偷溜去
-
-
-
-# ~442e6975
-; 偷溜去
-- Sneak off
+Sneak off
 
 ---
 
