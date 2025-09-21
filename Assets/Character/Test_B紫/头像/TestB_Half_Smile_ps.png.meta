@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TestB_Half_Smile_ps_0: 8449167677392467503
+      TestB_Half_Smile_ps_1: -7524850597403477879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

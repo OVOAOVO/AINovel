@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TestA_Full_Smile_ps_0: 8852657550660856181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

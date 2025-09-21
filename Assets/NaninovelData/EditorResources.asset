@@ -170,6 +170,36 @@ MonoBehaviour:
     - name: chapter_1/chapter_1_1_4
       pathPrefix: Scripts
       guid: 63de204a4d88bed4c96fe74dfbb09740
+    - name: chapter_1/chapter_1_2_4
+      pathPrefix: Scripts
+      guid: 56f18abb4e27a3543995202807a51352
+    - name: chapter_1/chapter_1_2_5
+      pathPrefix: Scripts
+      guid: 3ba568d4ef8f8c34c9723e532f45ffbc
+    - name: chapter_1/chapter_1_2_1
+      pathPrefix: Scripts
+      guid: e1f0cae7841a11344ab8495a5c5e3b9f
+    - name: chapter_1/chapter_1_3_5
+      pathPrefix: Scripts
+      guid: ff0f9637b915932408d49346ec8a4e0b
+    - name: chapter_1/chapter_1_3_3
+      pathPrefix: Scripts
+      guid: 43f1b43f4d90ba74581934ffa601176e
+    - name: chapter_1/chapter_1_2_3
+      pathPrefix: Scripts
+      guid: e0718ed2d8caf6f4abef94a39003cb3b
+    - name: chapter_1/chapter_1_3_4
+      pathPrefix: Scripts
+      guid: 2fafad4629fd02d49b6044eb35dba0de
+    - name: chapter_1/chapter_1_3_2
+      pathPrefix: Scripts
+      guid: 6bb1bc88b905cf3438329fbbff11cb95
+    - name: chapter_1/chapter_1_2_2
+      pathPrefix: Scripts
+      guid: d7f9b93b448f4a241b066343dcc157e3
+    - name: chapter_1/chapter_1_3_1
+      pathPrefix: Scripts
+      guid: 15eb1b60cd04ad5409228656d5dd178d
   - Id: Backgrounds/28ee2642-3439-43d7-b682-0d6fdc681817
     Resources: []
   - Id: CharacterAvatars
