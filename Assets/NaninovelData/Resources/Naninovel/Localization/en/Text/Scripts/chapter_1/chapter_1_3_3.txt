@@ -2,160 +2,175 @@
 
 # ~f484763c
 ; 【上午 · 校园广场】
-
+[Morning: Campus Plaza]
 
 # ~a04b44be
 ; 阳光透过云层洒下，广场上交流会继续进行。人群中低声讨论着昨日的事件，气氛微妙。
-
+Sunlight filters through cloud; the conclave resumes. Yesterday’s incident is whispered about—mood balanced on a knife-edge.
 
 # ~84ff3847
 ; 异族代表走到人类展示区前，神情冷静却带着几分挑衅。
+An Exotic delegate steps before the human exhibit—cool, almost amused.
 
-
-# ~f95be5d7
-; 异族代表（低声）：
-
-
-# ~56e5a3b8
-; “你们这样改动秩序条文……是不是有点自作聪明了？”
-
+# ~75c63595
+; > 异族代表（低声）：
+; > Test_D: |#~75c63595|
+; 你们这样改动秩序条文……是不是有点自作聪明了？
+Rewriting Seal clauses on your own—aren’t you over-estimating your cleverness?
 
 # ~28d2d479
 ; 人类学生小声争论，试图辩解，却被秩印投影的光芒提醒秩序至上。
+Human students murmur defenses, but the Seal’s glow flashes—order first, discussion later.
 
-
-# ~74b3b256
-; 薇拉 站在我旁边，微微挑眉，轻声说：
-
-
-# ~a461d327
-; “他们喜欢挑刺，不一定是坏意，就是习惯了对秩序做压力测试。”
-
+# ~930a9f63
+; > Test_B: |~930a9f63|
+; 他们喜欢挑刺，不一定是坏意，就是习惯了对秩序做压力测试。
+They test the seams, not out of malice—pressure-testing Order is their habit.
 
 # ~e2222cbf
 ; 她不多说，神情中透着几分审视，眼神像在观察整个局势，也顺便打量你是否紧张。
-
-
-# ~4ff71a18
-; ---
-
+Vera watches sideways, weighing the field—and whether you flinch.
 
 # ~34c74947
 ; 【下午 · 校园广场】
-
+[Afternoon: Campus Plaza]
 
 # ~a5189c3e
 ; 午后的交流会正热烈。一名兽裔青年在表演时，不小心碰翻了展示台上的律院核心器物——那是承载秩源符文的陈列装置，象征着秩院的规矩与荣耀。玻璃碎裂的清脆声瞬间响起，空气瞬间凝固。
-
+Mid-show, a beast-blood performer knocks over the core reliquary—a crystal housing Order-Source glyphs, emblem of academy pride. Glass rings; the world holds its breath.
 
 # ~699d0358
 ; 秩印守护者瞬间触发转移囚禁秩印，将兽裔青年拘禁。
-
+Guardians trigger a containment glyph; the youth is sealed inside a light-cage.
 
 # ~a32cda11
 ; 兽裔代表立刻发出不满的怒吼，异族代表们面色冷峻，气氛压抑得仿佛下一刻就要爆发冲突。
+Beast-blood delegates roar; Exotics turn glacial. One spark and the square becomes a battle-ground.
 
+# ~c935f672
+; (薇拉上前一步，挡在骚动的交界处，声音清晰、冷静)
+(Vera steps forward, placing herself between storm-fronts, voice cut-crystal.)
 
-# ~c0ff6ff1
-; 薇拉 上前一步，挡在骚动的交界处，声音清晰、冷静：
+# ~ac9f51bc
+; > Test_B: |#~ac9f51bc|
+; 都安静！大家看清楚了——这是意外，不是挑衅！
+Stand down! Look—accident, not affront!
 
+# ~6d3cb5c8
+; (她指了指碎裂的陈列装置，又抬手示意守护者放缓动作，语气干脆而坚定)
+(She points at the shards, then at the guardians—slow your hands, think.)
 
-# ~fb32d52e
-; “都安静！大家看清楚了——这是意外，不是挑衅！”
-
-
-# ~1de8d01
-; 她指了指碎裂的陈列装置，又抬手示意守护者放缓动作，语气干脆而坚定：
-
-
-# ~a2f095cf
-; “我们都知道它的重要性，但过失不等于恶意。若因为一个意外就挑起族群对立，那才是对秩序最大的亵渎。”
-
+# ~a61c2e60
+; > Test_B: |#~a61c2e60|
+; 我们都知道它的重要性，但过失不等于恶意。若因为一个意外就挑起族群对立，那才是对秩序最大的亵渎。
+We all value that relic, but mistake ≠ malice. Let one slip ignite racial blades and we desecrate Order itself.
 
 # ~73ba9b6
 ; 一阵熙攘过后，兽裔代表们的渐渐平息，异族目光仍然审视，但不再逼近。人类学生中也有人开始窃窃私语。
+Growls subside; Exotics hold their stare but halt. Human murmurs rise—uncertainty replacing outrage.
 
+# ~d094ea4e
+; 她回过头看了你一眼，眼神带着几分锐利，也有几分挑衅，好像在问
+She glances back—sharp, querying:
 
-# ~d14aa90f
-; 她回过头看了你一眼，眼神带着几分锐利，也有几分挑衅，好像在问：
+# ~148feb0d
+; （你，是站在我这边，还是站在那群光等着看笑话的人那边？）
+(Are you with me, or with the ones waiting for the punch-line?)
 
+# ~750c88b8
+; > @choice |#~750c88b8|
+; 支持薇拉
+Back Vera
 
-# ~b62146ba
-; ——你，是站在我这边，还是站在那群光等着看笑话的人那边？
+# ~7e887490
+; 你点头走上前，帮忙一起让氛围冷静。薇拉眼中闪过一丝满意，声音更加坚定。
+You step up, echo calm. Approval flickers across her face; her voice gains iron.
 
-
-# ~9b9ff75e
-; 【玩家选择（第十四次互动）】（薇拉 好感度 9）
-
-
-# ~b0b99f7c
-; - 支持 薇拉
-
-
-# ~8ae5ce88
-; 你点头走上前，帮忙一起让氛围冷静。薇拉 眼中闪过一丝满意，声音更加坚定。
-
-
-# ~c050cb45
-; - 保持沉默
-
+# ~9e6af783
+; > @choice |#~9e6af783|
+; 保持沉默
+Stay silent
 
 # ~f406ad97
 ; 你站在原地，没有动作。薇拉 没再看你，独自将局面压了下去，但神情里带着一丝失落。
-
+You stay frozen. She handles it alone, never looking back—defeat thin as frost on her shoulders.
 
 # ~66ed704b
 ; 【晚上 · 校园一角】
-
+[Evening: Campus Corner]
 
 # ~22a55095
 ; 交流会结束，人群散去。夜色下的广场只剩零星灯火，空气里弥漫着紧张后的小尴尬。
+The square empties; lanterns bob like fireflies. After-battle awkwardness clings to the cool air.
 
+# ~1567f631
+; 你和薇拉 并肩走在回宿舍的路上，她随意甩了甩手上的布料，声音低柔
+Side by side toward the dorms, she flicks a scrap of canvas and speaks softly:
 
-# ~c17f51e7
-; 你和 薇拉 并肩走在回宿舍的路上，她随意甩了甩手上的布料，声音低柔：
+# ~94d206c5
+; > Test_B: |#~94d206c5|
+; 今天真是累人……他们总把小事弄得一团糟。
+Exhausting day… they always turn molehills into battle-fields.
 
+# ~dc702c2
+; (她看着你，轻轻挑眉)
+(She eyes you, brow lifting.)
 
-# ~d5a5c422
-; “今天真是累人……他们总把小事弄得一团糟。”
+# ~76ad91c
+; > Test_B: |#~76ad91c|
+; 你还好吧？没被吓到吧？
+You alright? Not traumatised by broken glass and roaring beasts?
 
+# ~a5042cfa
+; 薇拉依然带着锐利的观察力，但更多是她的个人情绪——疲惫、无奈、还有点小调侃，而不是教训或者哲学讲解。
+Vera’s blade is sheathed; what’s left is fatigue, wry humour, and a sliver of concern—no lecture, just peer-to-peer.
 
-# ~2ebbdcc0
-; 她看着你，轻轻挑眉：“你还好吧？没被吓到吧？”
+# ~ed991e3e
+; 你心中明白,今天的冲突，是秩序与自由的碰撞，但通过 薇拉的眼睛，它也只是生活中的一部分。她活得真实、自然，也带着属于同龄人的锋芒和温度。
+You realise: through Vera’s eyes the clash was simply life—raw, real, laced with adult sarcasm and teenage warmth.
 
+# ~45922d04
+; > @choice |#~45922d04|
+; 打趣回应
+Deflect with banter
 
-# ~8b7ba81
-; 薇拉 依然带着锐利的观察力，但更多是她的个人情绪——疲惫、无奈、还有点小调侃，而不是教训或者哲学讲解。
+# ~ea9a6411
+; 你笑了笑，顺势调侃
+You grin and volley back:
 
+# ~8d190f1e
+; > Test_C: |#~8d190f1e|
+; 哎呀，你没被吓到吧？
+Hey, you’re the one who stepped into the lion’s den—should I be asking you that?
 
-# ~d34998b2
-; 你心中明白：今天的冲突，是秩序与自由的碰撞，但通过 薇拉 的眼睛，它也只是生活中的一部分。她活得真实、自然，也带着属于同龄人的锋芒和温度。
+# ~73e39cc4
+; 薇拉微微挑眉，嘴角勾起一抹笑意
+Vera’s brow arcs; a smile sneaks through.
 
+# ~e60a2261
+; > Test_B: |#~e60a2261|
+; 哼~
+Hmph~
 
-# ~a38215e2
-; 【玩家选择（第十五次互动）】（薇拉 好感度 10）
+# ~2bafaa3
+; > @choice |#~2bafaa3|
+; 认真安慰
+Offer sincere comfort
 
+# ~19e58d5
+; 你认真点头
+You nod, gentle:
 
-# ~ee0a7d7b
-; - 打趣回应
+# ~d7088f74
+; > Test_C: |#~d7088f74|
+; 我还好，你也别太累了。
+“I’m fine. Don’t exhaust yourself carrying the world.”
 
+# ~e2a79f40
+; 薇拉眼神柔和了一瞬，轻轻哼了一声
+Her gaze softens a beat; she exhales a small, amused grunt.
 
-# ~632ef2ef
-; 你笑了笑，顺势调侃：“哎呀，你没被吓到吧？”
-
-
-# ~6684cf0d
-; 薇拉 微微挑眉，嘴角勾起一抹笑意：“哼~”
-
-
-# ~e0f48d7
-; - 认真安慰
-
-
-# ~b361f3ef
-; 你认真点头：“我还好，你也别太累了。”
-
-
-# ~fd2a7d30
-; 薇拉 眼神柔和了一瞬，轻轻哼了一声：“知道了…你倒是挺稳的嘛。”
-
+# ~9c7200d5
+; > Test_B: |#~9c7200d5|
+; 知道了…你倒是挺稳的嘛。
+“Noted… you’re steadier than you look.”

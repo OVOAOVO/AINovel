@@ -2,251 +2,247 @@
 
 # ~83fb2a19
 ; 【早晨 · 律院宿舍】
-
+[Morning · Law-Academy Dorm]
 
 # ~b9584736
 ; （钟声响起，打断了休息。正打算继续睡时，同学 C猛敲门。）
-
+The bell hacks through sleep. Just as you pull the blanket higher, Classmate C pounds the door.
 
 # ~5ce457c6
 ; > Test_D: |#~5ce457c6|
 ; 快点！今天早训查迟到名单，你要是再赖床，就等着被抄名字吧！
-
+Move it! Morning drill roll-call—one more late and your name’s posted in red!
 
 # ~f8a2ee35
 ; > Test_C: |#~f8a2ee35|
 ; 律院的清晨有固定节奏：钟声响起，室友催促，早餐时间也很重要。
-
+Academy mornings run on rails: bell → roommate panic → sprint → maybe breakfast.
 
 # ~b404284e
 ; > Test_C: |#~b404284e|
 ; （揉了揉眼睛，起身准备去集合。）
-
+(Rubbing your eyes, you stumble toward formation.)
 
 # ~5b388d4e
 ; 【律院 · 早训场】
-
+[Drill Grounds]
 
 # ~29dfe350
 ; （学生们列队，导师检查出勤。吐着晨雾，一切显得安静而有序。）
-
+Cadets line up in silver mist. Instructors prowl, clipboard tallying ghosts.
 
 # ~f2f44d00
 ; > Test_DS: |#~f2f44d00|
 ; 记住，秩律的根基在于自律。今天先默写三条律印。
-
+Remember: Order begins with self-order. Write three clauses—now.
 
 # ~e5a501c9
 ; > Test_C: |#~e5a501c9|
 ; 一大早就要默写条款。
-
+Pop quiz before the pop-tarts.
 
 # ~89637260
 ; > Test_C: |#~89637260|
 ; 昨晚记住的内容不多，现在只能尽量写下掌握的条款。
-
+Last night’s cramming leaks out of your ears; you scrape together fragments.
 
 # ~660226a7
 ; （诺维娅已经胸有成竹，薇拉则在草稿纸上随意记着笔记或符号。）
-
+(Novia writes like a printing press; Vera doodles spirals that look suspiciously like question marks.)
 
 # ~82ba2969
 ; 【上午 · 教室】
-
+[Morning · Classroom]
 
 # ~495d8ac
 ; （律源学继续进行。导师一边讲课，一边强调秩印不可动摇。）
-
+Order-Source lecture drones on: the Seal is immutable, sacred, final.
 
 # ~5fc90b76
 ; （你心不在焉，手边不经意翻开了那本“禁书笔记”。）
-
+Your hand slips the forbidden folder from your bag—just a peek.
 
 # ~eb282056
 ; > Test_C: |#~eb282056|
 ; 昨天没看仔细，今天再翻……
-
+Didn’t finish it yesterday—page two…
 
 # ~bb9235dc
 ; > Test_C: |#~bb9235dc|
 ; 嗯？
+Hm?
 
-
-# ~73452bc4
-; > Test_C: |#~73452bc4|
-; 这一页写着——“秩印的源头，并非来自神明，而是……”
-
+# ~aa0daaed
+; > Test_C: |#~aa0daaed|
+; 这一页写着——“秩印的源头，并非来自神明，而是……
+The Seal’s source is not divine, but—
 
 # ~b0b310b4
 ; （字迹到这里模糊断裂。）
+Ink dissolves into a water-stained void.
 
+# ~c69cfb70
+; > Test_A: |#~c69cfb70|
+; 别乱看！这是违规物，若被导师发现，你会被记大过！
+Eyes forward! Possession alone is a black mark—burn it or bury it!
 
-# ~655b291c
-; > Test_A: |#~655b291c|
-; “别乱看！这是违规物，若被导师发现，你会被记大过！”
-
-
-# ~7e0f4d3
+# ~b8a57633
 ; > 薇拉（小声）：
-; > Test_B: |#~7e0f4d3|
-; “违规才更有价值啊。
+; > Test_B: |#~b8a57633|
+; 违规才更有价值啊。
+Value grows in the shadows.
 
-
-# ~64b10de6
-; > Test_B: |#~64b10de6|
-; 难道你不想知道——所谓的‘秩序根基’，是不是有人编造出来的？”
-
+# ~2b6cddd8
+; > Test_B: |#~2b6cddd8|
+; 难道你不想知道——所谓的‘秩序根基’，是不是有人编造出来的？
+Don’t you wonder if the whole “bedrock of order” is just someone’s bedtime story?
 
 # ~4d6e1e4
 ; （两人对视，火花再度四溅。）
-
+Their gazes collide—sparks fly across your desk.
 
 # ~92bbcb95
 ; > Test_C: |#~92bbcb95|
 ; 一边提醒守规矩，一边引发怀疑……
-
+One demands obedience, the other curiosity—both use you as their battlefield.
 
 # ~37313f23
 ; > Test_C: |#~37313f23|
 ; 暂时只能先专注于手头的事情。
-
+For now you duck your head and pretend to take notes.
 
 # ~e43dc4b2
 ; 【午间 · 食堂】
-
+[Lunch · Cafeteria]
 
 # ~8e7c970b
 ; （今日菜单：烤鸡腿 + 蔬菜汤。食堂里热气腾腾。）
-
+Today’s special: roast chicken leg + veg soup. Steam fogs the windows.
 
 # ~be06927
 ; > Test_C: |#~be06927|
 ; 食堂的饭菜总能让人暂时放下其他事情。
-
+Food here is the only reliable pause button.
 
 # ~917a90a0
 ; （刚准备开动，诺维娅 和薇拉又在你的餐桌前杠上了。）
-
+(You lift your fork—Nova and Vera plant themselves opposite, squaring off.)
 
 # ~249f1b91
 ; > Test_A: |#~249f1b91|
 ; 这本禁书必须上交。
-
+That folder goes to the faculty—today.
 
 # ~45311364
 ; > Test_A: |#~45311364|
 ; 无论是谁留下的，质疑秩印的动机本身就是危险的。
-
+Intent to question the Seal is already treason—finish it before it finishes you.
 
 # ~1adb748d
 ; > 薇拉（挑眉）：
 ; > Test_B: |#~1adb748d|
 ; 危险？还是说……真相会让你害怕？
-
+Dangerous—or simply… inconvenient?
 
 # ~12278eb4
 ; > Test_B: |#~12278eb4|
 ; 你所谓的‘秩序’，说不定只是个精心编织的牢笼。
-
+Your beloved “order” might be a cage woven by very human hands.
 
 # ~a77ef2bc
 ; （你左右看看，尴尬至极。）
-
+You look left, right, nowhere safe—caught between inquisitor and iconoclast.
 
 # ~253a41bf
 ; 尽量不被周围的讨论干扰，先集中注意力在餐盘上。
-
+Strategy: focus on the chicken. It’s large. It doesn’t judge.
 
 # ~65b308ca
 ; 鸡腿很大。
-
+The leg is indeed enormous—comfort food in poultry form.
 
 # ~2cb7b95c
 ; > @choice |#~2cb7b95c|
 ; 赞同诺维娅，把书上交给导师
-
+Side with Nova—hand the book in
 
 # ~6e8dd83
 ; > → A好感↑
 ; > @choice |#~6e8dd83|
 ; 赞同薇拉，决定偷偷研究下去
-
+Side with Vera—keep investigating
 
 # ~3eb2abeb
 ; > → B好感↑
 ; > @choice |#~3eb2abeb|
 ; 装死，假装光顾着吃饭
-
+Play dead—concentrate on mastication
 
 # ~5d192b28
 ; 【下午 · 图书馆角落】
-
+[Afternoon · Library Nook]
 
 # ~f272bb86
 ; (你和诺维娅、薇拉一同翻查资料。书中露出更多笔记：关于“秩印的条款曾被质疑为控制人的行为”，署名“E·M”。)
-
+(The three of you huddle over the folder. New page: clauses “engineered to modulate human behaviour,” signed “E. M.”)
 
 # ~df8b84c7
 ; > Test_A: |#~df8b84c7|
 ; 不可能……怎会有人质疑这种事？
-
+Impossible—no one questions the axioms of the world.
 
 # ~78c9f1a
 ; > 薇拉（若有所思）：
 ; > Test_B: |#~78c9f1a|
 ; 看来，真相比想象的更复杂。
-
+Looks like the truth has layers—and they’re all sticky.
 
 # ~c7229ef2
 ; > Test_B: |#~c7229ef2|
 ; 要不要顺藤摸瓜，查查这位‘ E·M’是谁？
-
+Shall we tug the thread and see who unravels?
 
 # ~91dc93bc
 ; > Test_C: |#~91dc93bc|
 ; 署名“E·M”。
-
+Initials: E. M.—ghost in the stacks.
 
 # ~1d97ed06
 ; > Test_C: |#~1d97ed06|
 ; 注意到这个名字，需要考虑接下来的行动。
+A name is a doorway; do you step through?
 
-
-# ~af41584b
-; 【玩家选择（第六次互动）】（好感度6）
-
-
-# ~1689294f
-; > @choice |#~1689294f|
-; 赞同
-
+# ~db467d0e
+; > @choice |#~db467d0e|
+; 赞同诺维娅，不去调查EM
+Back Nova—drop the inquiry
 
 # ~c163d2d8
 ; > → A好感↑
 ; > @choice |#~c163d2d8|
 ; 赞同薇拉，调查EM
-
+Back Vera—hunt for E. M.
 
 # ~2f889986
 ; > → B好感↑
 ; > @choice |#~2f889986|
 ; 今天的风，甚是喧嚣啊
-
+The wind today is quite noisy
 
 # ~8d6f9429
 ; 【傍晚 · 律院庭院】
-
+[Evening · Courtyard]
 
 # ~19a5820b
 ; （夕阳下，三人暂时散开，气氛微妙。诺维娅仍坚持不要过多干涉，薇拉则想私下调查。你处在两者之间，暂时保持观察。）
+Sunset bleeds across the quad. Nova insists on obedience, Vera on excavation. You linger in the middle, undecided, watching both horizons.
 
-
-# ~c982a56
-; > Test_C: |#~c982a56|
-; 开学第三天的安排：早晨默写 → 上午查禁书 → 午餐争论 → 下午资料调查。
-
+# ~b3f859a8
+; > Test_C: |#~b3f859a8|
+; 开学第三天的安排:早晨默写 → 上午查禁书 → 午餐争论 → 下午资料调查。
+Day-three syllabus: dawn dictation → contraband lit → lunch debate → archive hunt.
 
 # ~2e5d9610
 ; > Test_C: |#~2e5d9610|
 ; 可以暂时把注意力放在手头的事情上。
-
+For now you shelve the question and watch the light fade—tomorrow will demand an answer.

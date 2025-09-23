@@ -150,10 +150,10 @@ The human heart cannot be bound by the thirty-six points.
 ; 你觉得呢？
 What do you think?
 
-# ~5a284c17
-; > @choice "\|#~5a284c17|"
-; "装模作样，照着条文背诵
-Pretend to recite the clauses by the book
+# ~7a80734b
+; > @choice |#~7a80734b|
+; 装模作样，照着条文背诵
+Put on an act and recite the clauses by rote
 
 # ~1f61952
 ; > → 向诺维娅 靠拢，好感↑（守秩派）
@@ -200,12 +200,8 @@ Your attitude was too casual in the class just now. The rank seal is no joke; it
 ; 你默默低下头，心里感受到了一丝被提醒的压力。
 You lower your head, feeling the weight of her words.
 
-# ~a9252133
-; > Test_B: |#~a9252133|
-; （笑着插话）：
-(Interjects with a smile):
-
 # ~b53451df
+; > Test_B: （笑着插话）
 ; > Test_B: |#~b53451df|
 ; 未来？呵，未来才没这么死板呢。
 The future? Oh, the future won't be so rigid.

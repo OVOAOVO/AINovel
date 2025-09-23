@@ -2,108 +2,95 @@
 
 # ~f484763c
 ; 【上午 · 校园广场】
-
+[Morning: Campus Plaza]
 
 # ~f322f771
 ; 天刚亮，交流会正式开始。广场上布置整齐，秩源投影闪烁着条文光芒，提醒人类学生秩序至上。人群中，学生们兴奋低语，我也不由自主地感到紧张。
+Dawn breaks and the conclave opens. The square is immaculate—Order-Source glyphs strobe above the stalls, reminding human students that hierarchy reigns. Excited whispers ripple; my own pulse quickens.
 
+# ~48ef919
+; 薇拉靠在布展架旁，双手交叉，目光扫过来来往往的人群。她的神情有些挑剔，但不失镇定。
+Vera leans against a frame, arms folded, eyes tracking the flow. Critical, composed, unflappable.
 
-# ~e74d1687
-; 薇拉 靠在布展架旁，双手交叉，目光扫过来来往往的人群。她的神情有些挑剔，但不失镇定。
-
-
-# ~322d55d6
-; 薇拉（低声）：
-
-
-# ~7f5f2a2c
-; “这些秩序感…太明显了。你会被它安慰吗，还是觉得被压迫？”
-
+# ~f6983acb
+; > 薇拉（低声）：
+; > Test_B: |#~f6983acb|
+; 这些秩序感…太明显了。你会被它安慰吗，还是觉得被压迫？
+This much order—does it comfort you, or weigh you down?
 
 # ~a8c537bc
 ; 我跟随她整理布置的摊位，动作渐渐默契。她偶尔抬头看我，眼神中带着微微的审视，但也像在等我回应。
+We work in silent sync—canvas, pegs, lights. Each time she glances up the question lingers: choose.
 
+# ~3a0a5164
+; > @choice |#~3a0a5164|
+; 觉得被压迫
+Feels oppressive
 
-# ~dbdac8aa
-; 【玩家选择（第十三次互动）】（薇拉 好感度 8）
+# ~7d23f52
+; (薇拉眯了眯眼，嘴角微微上扬，像是对你的坦率表示认可)
+(She narrows her eyes, a corner of her mouth lifting—approval for honesty.)
 
+# ~6d7fafe
+; > @choice |#~6d7fafe|
+; 觉得安慰
+Finds it reassuring
 
-# ~e111917
-; - 觉得被压迫
-
-
-# ~662fe697
-; 薇拉 眯了眯眼，嘴角微微上扬，像是对你的坦率表示认可
-
-
-# ~409069aa
-; - 觉得安慰
-
-
-# ~d6a64d78
-; 你能感受到她在心里默默评估你的立场，疏远感悄然浮现
-
-
-# ~4ff71a18
-; ---
-
+# ~bba67921
+; (你能感受到她在心里默默评估你的立场，疏远感悄然浮现)
+(You feel her re-calibrate distance, a cool wedge sliding between you.)
 
 # ~9c29ee83
 ; 【下午 · 多族展示】
-
+[Afternoon: Multi-Species Exhibition]
 
 # ~f4cd995c
 ; 交流会进入高潮，各族代表轮番展示文化。
-
+The conclave peaks; each species mounts its stage.
 
 # ~b5d65e70
 ; - 人类：秩源光路闪烁，条文投影如实体般庄重，整齐有序，冷静而严谨。
-
+Human: crisp light-tracks of code hang like glass tablets—solemn, symmetrical, cold.
 
 # ~33619cc
 ; - 兽裔：夜之城风格的展台热烈奔放，火盆与灯笼映照着竞技与舞蹈，蒸汽氤氲，生命力和激情扑面而来。
-
+Beast-blood: neon-brass stalls, braziers, drum-dance, steam and sweat—life in primary colours.
 
 # ~11ffc2ce
 ; - 异族：展台像活的山川与古树，灵泉闪烁微光，空气中弥漫奇异气息，令人忍不住屏息。
-
+Exotic: a living grove—miniature mountains, ancient trunks, sprite-lit springs—air you hold your breath to taste.
 
 # ~8250336d
 ; 你跟着人群走动，观察各族互动。兽裔青年大笑，偶尔挑衅般望向秩序严谨的人类；异族代表淡然安静，却自带威严，让人不敢轻易靠近。
+You drift through the crowd. Beast-blood youths laugh, throwing mock-gauntlets at rigid human lines; Exotic delegates serene, authority wrapped in silence.
 
-
-# ~d04b4d1d
-; 薇拉 靠近你，低声开口，语气带着批判但不冷漠：
-
-
-# ~5b8ced57
-; “看他们的神情。兽裔总是太直接，有时候傲慢；异族沉稳，却不容小觑。和他们相处，不能只用规矩去衡量。”
-
+# ~10282484
+; > 薇拉靠近你，低声开口，语气带着批判但不冷漠：
+; > Test_B: |#~10282484|
+; 看他们的神情。兽裔总是太直接，有时候傲慢；异族沉稳，却不容小觑。和他们相处，不能只用规矩去衡量。
+Watch their faces. Beast-bloods are blunt—sometimes arrogant; Exotics calm, yet never secondary. Rules alone won’t bridge them.
 
 # ~b8a6d866
 ; 你点头，她眼神里闪过一丝满意，但仍旧警惕。薇拉 的性格很明确——观察入微、现实主义，但她不会神神叨叨，总是用最直接的语言指出问题。
-
+You nod; approval flickers, but vigilance remains. Vera—sharp-eyed, pragmatic, terse. No mysticism, just scalpel-clear observations.
 
 # ~66ed704b
 ; 【晚上 · 校园一角】
-
+[Evening: Campus Corner]
 
 # ~fe863d20
 ; 交流会结束，人群散去。夜色下，广场恢复宁静，只剩零星灯火。
+The conclave closes; crowds thin. Under night the square reverts to hush—scattered lamps, distant bells.
 
+# ~9025daf3
+; 你和薇拉 一起走回宿舍，她的语气比上午更轻松，但仍带着那份锐利：
+You walk her back. Her tone softens, yet the edge stays honed:
 
-# ~271cfa1e
-; 你和 薇拉 一起走回宿舍，她的语气比上午更轻松，但仍带着那份锐利：
-
-
-# ~da29dbc5
-; 薇拉：
-
-
-# ~6bb5ae8
-; “今天你看到了吧？不是每个人都按规矩行事，也不是每种秩序都适合你。保持观察，别让表象迷惑你。”
-
+# ~6c010719
+; > Test_B: |#~6c010719|
+; 今天你看到了吧？不是每个人都按规矩行事，也不是每种秩序都适合你。保持观察，别让表象迷惑你。
+You saw it, right? Not everyone obeys the same line, and not every order fits you. Keep watching; don’t let surfaces lie.
 
 # ~d5ef7ba
 ; 你望向她，明白今晚的经历不仅是文化碰撞，更是一次现实的检验。她的性格清晰而立体——务实、敏锐、带着温度，同时带着一点孤傲和批判。
-
+You study her profile—realist, lucid, faintly warm, proudly alone—tonight’s clash distilled into one final caution, etched in night air.

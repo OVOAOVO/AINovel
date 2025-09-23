@@ -2,64 +2,60 @@
 
 # ~7b8328ec
 ; 【上午：课堂学习《秩源学基础·第三卷》】
-[Morning: Class – "Order Source Studies, Volume III"]
+[Morning: Class – Order-Source Studies, Vol. III]
 
 # ~ae0569c2
 ; 律院的阶梯教室内，导师的声音如同秩印投影般平稳而冷冽。墙上的符纹缓缓浮动，仿佛在暗中校对每一名学生的笔记。
-In the academy’s tiered lecture hall, the instructor’s voice is as steady and cold as the Order Seal projection. Glyphs on the wall drift slowly, as if silently proofreading every student’s notes.
+In the tiered hall the instructor’s voice is as steady and cold as the Order-Seal holograph overhead. Glyphs drift across the wall like silent auditors correcting every note we take.
 
 # ~2df7adef
 ; > Test_DS: |#~2df7adef|
 ; 秩印不仅是约束，更是保障。它的逻辑算法，确保人与人之间的公平，使得社会无需依赖猜疑而运转。
-Test_DS: “The Order Seal is not merely a restraint—it is a safeguard. Its logical algorithms ensure fairness between people, allowing society to function without reliance on suspicion.”
+“The Seal is not mere constraint—it is guarantee. Its algorithms secure fairness between persons, freeing society from the tyranny of suspicion.”
 
-# ~205e4554
-; （你本能地走神，直到旁边的 诺维娅 轻轻咳了一声。）
-(Your mind starts to wander—until Novia beside you gives a soft cough.)
+# ~f48e3cc6
+; (你本能地走神，直到旁边的 诺维娅 轻轻咳了一声。)
+(Your mind wanders until Nova clears her throat beside you.)
 
 # ~ffc11a7b
 ; > Test_A: |#~ffc11a7b|
 ; 要专注哦，不然会跟不上。
-Test_A: “Focus, or you’ll fall behind.”
+Focus, or you’ll be left behind.
 
 # ~c4476a73
 ; 她的声音柔和，却带着不容置疑的认真。你心中一紧，赶紧低头，笔尖重新落在纸上。
-Her voice is gentle, yet firm. You feel a jolt and quickly lower your head, pen returning to the page.---
-
-# ~4ff71a18
-; ---
----
+Soft, yet absolute. You start, drop your gaze, and set pen to paper again.
 
 # ~34d53e93
 ; 【中午：律院食堂】
-[Noon: Law Academy Cafeteria]
+[Noon: Academy Cafeteria]
 
 # ~76fe50f5
 ; 秩印投影在食堂中央闪耀着，学生们在光环的引导下排队取餐，每个人的顺序和座位都被分配得井井有条。空气中没有催促，也没有插队的争执。
-The Order Seal projection shines at the center of the cafeteria. Students line up for meals under its halo—every sequence and seat perfectly arranged. No urging, no quarrels, no cutting in line.
+The Seal’s projection hovers at the center of the hall; students take trays in perfect sequence, every seat pre-assigned. No hustle, no quarrels, no line-cutting.
 
 # ~652b8f1a
 ; 诺维娅 坐在你对面，神情自然。
-Novia sits across from you, composed.
+Nova sits across, composed.
 
 # ~d773d189
 ; > Test_A: |#~d773d189|
 ; 看，这就是秩印的意义。因为它，我们才能安心生活，不必担心被背叛。
-Test_A: “See? This is the meaning of the Order Seal. Because of it, we can live without fear of betrayal.”
+See? This is what the Seal means. Because of it we live without fear of betrayal.
 
 # ~80a42863
 ; > Test_C: |#~80a42863|
 ; 偶尔也想来点混乱，感觉太安静了。
-Test_C: “Sometimes I crave a little chaos—it feels too quiet.”
+Sometimes I miss a little chaos—it feels vacuum-sealed in here.
 
-# ~78e1196
-; 诺维娅 眨了眨眼，轻轻摇头：
-Novia blinks and shakes her head gently.
+# ~351455c2
+; 诺维娅眨了眨眼，轻轻摇头：
+She blinks, gives a small head-shake.
 
 # ~57be53c7
 ; > Test_A: |#~57be53c7|
 ; 你总是这样。但如果真有混乱……你可未必能笑得出来。
-Test_A: “You always say that. But if chaos truly came… I doubt you’d still be smiling.”---
+You always say that. But if chaos truly came… I doubt you’d still be smiling.
 
 # ~ba600cd6
 ; 【下午：校图书馆】
@@ -67,76 +63,76 @@ Test_A: “You always say that. But if chaos truly came… I doubt you’d still
 
 # ~735a5ce5
 ; 高大的书架间，光线透过彩色玻璃洒下。诺维娅 正在翻阅厚重的案例卷宗，她的动作娴熟，仿佛已经习惯了与这些条文为伴。
-Between towering shelves, colored light falls through stained glass. Novia flips through heavy case volumes, skilled and familiar—long accustomed to living among clauses.
-
-# ~d7d13e51
-; 诺维娅（认真）：
-Novia (earnest):
+Light falls through stained glass between towering stacks. Nova pages through heavy case-files, fluent and familiar—long used to living among clauses.
 
 # ~620d036f
+; > 诺维娅（认真）：
 ; > Test_A: |#~620d036f|
 ; 这些都是秩印在民事裁决上的应用。比如财产分配、契约履行、婚姻判定……没有它，人类很快会陷入纷争。
-Test_A: “These are civil applications of the Order Seal—property division, contract enforcement, marriage rulings… Without it, humanity would plunge into strife.”
+These are civil applications—property division, contract enforcement, marriage adjudication. Without the Seal humanity would slide back into strife.
 
-# ~79e3858b
-; （你只是静静陪在旁边，看着她专心的神情。偶尔她低头时，发丝会垂落，投下浅浅的阴影。）
-(You simply stay beside her, watching her focused profile. When she lowers her head, strands of hair fall, casting soft shadows.)
+# ~cd7a001
+; (你只是静静陪在旁边，看着她专心的神情。偶尔她低头时，发丝会垂落，投下浅浅的阴影。)
+(You sit nearby, watching the concentration on her face. When she bows her head a lock of hair slips free, sketching soft shadow.)
 
 # ~de9efd07
 ; 察觉到你的注视，她抬起头，有些意外。
-Sensing your gaze, she looks up, slightly startled.
-
-# ~65a3f53d
-; 诺维娅（小声）：
-Novia (softly):
+Sensing the stare, she glances up, startled.
 
 # ~4c53a740
+; > 诺维娅（小声）：
 ; > Test_A: |#~4c53a740|
 ; ……看书啊，不要一直看我。
-…Read the book, don’t keep looking at me.
+…Read the book, not me.
 
 # ~8df50f44
 ; 她脸上泛起一丝微红，很快又低下头，装作没发生过。
-A faint blush rises on her cheeks; she quickly lowers her eyes again, pretending nothing happened.---
+Colour touches her cheeks; she ducks back behind the tome, pretending nothing happened.
 
 # ~9efc5524
 ; 【晚上：宿舍夜谈】
-[Evening: Dormitory Night Chat]
+[Evening: Dorm Night-Talk]
 
 # ~eb1dab5d
 ; 夜色降临，窗外的秩印光芒在空中旋转，像无声的守护者。
-Night falls; the Order Seal’s light spins outside the window like a silent guardian.
+Night falls; outside the window the Seal’s light revolves like a noiseless sentinel.
 
 # ~7bde2565
 ; 诺维娅 合上书，神情庄重：
-Novia closes her book, expression solemn:
+Nova closes her book, solemn:
 
 # ~7d531767
 ; > Test_A: |#~7d531767|
 ; ‘法典祭典’快到了。那是对秩印的誓约，也是我们存在的证明。
-Test_A: “The ‘Codex Festival’ is approaching. It is our oath to the Order Seal—and the proof that we exist.
+The Codex Festival is near. It is our oath to the Seal—and the proof we exist.
 
 # ~497d02aa
 ; > Test_A: |#~497d02aa|
 ; ……你想要我一起去嘛？（邀请）”
-…Will you go with me? (invitation)”
+…Will you go with me?” (invitation)
 
 # ~8859abb1
 ; （空气安静下来，她的眼神中有着从未有过的期待。）
-(The air stills; in her eyes there is an anticipation you’ve never seen before.)---
+The air stills; in her eyes lives a hope you’ve never seen before.
 
-# ~8f46737e
-; 【玩家选择（第七次互动）】（诺维娅好感度7）
-[Player Choice (7th Interaction)] (Novia Affinity +7)
+# ~787b48a1
+; > @choice |#~787b48a1|
+; 答应与她一同参加祭典
+Accept—attend the festival together
 
-# ~e228cd17
-; - 答应与她一同参加祭典 →诺维娅 明显松了口气，露出安心的笑容。
-- Agree to accompany her → Novia exhales in relief, a reassured smile blooming.
+# ~c54d6fe9
+; 诺维娅明显松了口气，露出安心的笑容。
+Her shoulders ease; a quiet smile blooms.
 
-# ~5bd1a803
-; - 含糊其辞 → 诺维娅 神情微微一滞，眼底掠过一丝不安。
-- Hedge your answer → Novia’s expression falters, a flicker of unease in her eyes.
+# ~cedeac20
+; > @choice |#~cedeac20|
+; 含糊其辞
+talking vaguely
+
+# ~a547b364
+; 诺维娅神情微微一滞，眼底掠过一丝不安。
+Her expression falters; unease flickers across her gaze.
 
 # ~c3a034a0
 ; （夜幕静静笼罩，你意识到，在这秩序至上的律院里，她的坚定，也在悄悄牵动着你的心。）
-(Night quietly descends. You realize that in this academy where order reigns supreme, her steadfastness is quietly tugging at your heart as well.)
+Night settles. In this academy where order is god, her unwavering certainty is quietly tugging at your heart.

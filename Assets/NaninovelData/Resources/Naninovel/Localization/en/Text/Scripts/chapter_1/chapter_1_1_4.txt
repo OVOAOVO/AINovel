@@ -2,166 +2,163 @@
 
 # ~48aec6c2
 ; 【早晨 · 教室】
-
+[Morning · Classroom]
 
 # ~dcbec1fa
 ; (晨光透过高大的窗户，照亮桌上的律源学课本。今天的氛围比前几天轻松许多。)
-
+(Morning light streams through tall windows, pooling on the open Order-Source textbook. The mood feels lighter than it has all week.)
 
 # ~51146681
 ; > Test_DS: |#~51146681|
 ; 昨天的小测，整体水平还算过得去。今天不上新课，各组自己讨论律条案例。
-
+Yesterday’s quiz was… acceptable. No new material today—just group case studies.
 
 # ~7a7b6852
 ; > Test_C: |#~7a7b6852|
 ; 今天没有考试，可以稍微放松一些。
+No exam. I can finally breathe.
 
-
-# ~9519ee5c
-; (教室里响起窸窸窣窣的翻书声。女主 A 认真翻着律典，女主 B 漫不经心地画着圈。)
-
+# ~e947715b
+; (教室里响起窸窸窣窣的翻书声。诺维娅认真翻着律典，薇拉 漫不经心地画着圈。)
+(Pages rustle. Novia pores over the codex; Vera doodles spirals in a margin.)
 
 # ~72f2ce19
-; > 女主 A（正色）：
+; > 诺维娅（正色）：
 ; > Test_A: |#~72f2ce19|
 ; 案例分析很重要。比如——如果有人私下篡改秩印记录，会造成什么后果？
-
+Case analysis matters. Suppose someone alters an Order Seal record in private—what’s the fallout?
 
 # ~2b68e6b7
-; > 女主 B（打哈欠）：
+; > 薇拉（打哈欠）：
 ; > Test_B: |#~2b68e6b7|
 ; 后果？大概是要写一百遍反省书吧？
+Fallout? A hundred lines of “I will not tamper with fate”?
 
-
-# ~4d9d524f
-; (女主 A皱眉，正要反驳，你忙不迭举手打圆场。)
-
+# ~63fdede
+; (诺维娅皱眉，正要反驳，你忙不迭举手打圆场。)
+(Novia’s brow furrows. You shoot a hand up before the sparks fly.)
 
 # ~90931b28
 ; > Test_C: |#~90931b28|
 ; 也许我们可以换一个更贴近日常的例子？
-
+Maybe something closer to daily life?
 
 # ~41570ddf
 ; > Test_C: |#~41570ddf|
 ; 比如食堂少发一块肉饼，这种情况算不算违规。
-
+Say the canteen shorts you one meat pie—does that violate statute?
 
 # ~3b3bd97f
 ; (教室瞬间安静，随后几名同学忍不住笑了出来。)
+(A beat of silence—then laughter ripples across the room.)
 
-
-# ~163d4e69
-; 女主 B“噗”地笑了：
-
+# ~2bf99833
+; 薇拉“噗”地笑了：
+Vera snorts:
 
 # ~dfdd7797
 ; > Test_B: |#~dfdd7797|
 ; 有意思，这才是接地气的案例。
+Now that’s a precedent I can taste.
 
+# ~7224df93
+; 诺维娅摇头叹息,但嘴角微微松动:
+Novia sighs—but the corner of her mouth twitches.
 
-# ~53bd82c2
-; 女主 A摇头叹息,但嘴角微微松动:
-
-
-# ~d252b3b6
-; > Test_A: |#~d252b3b6|
-; “……好吧，总比完全不讨论要好。”
-
+# ~f3261348
+; > Test_A: |#~f3261348|
+; ……好吧，总比完全不讨论要好。
+…Fine. At least we’re discussing something.
 
 # ~9ae22e57
 ; > Test_C: |#~9ae22e57|
 ; 第一次提出的例子没有被当场否定。事情进展平稳。
-
+First proposal not shot down. Progress.
 
 # ~4ac55101
 ; 【午间 · 教室】
-
+[Noon · Classroom]
 
 # ~209d5f0e
 ; (阳光温暖，庭院喷泉边有学生弹琴。几只鸽子落在石阶上啄食。)
-
+(Sunlight warms the stone. Someone plays guitar beside the courtyard fountain; ponies peck at crumbs.)
 
 # ~9f825853
 ; (3人在教室午休)
-
+(The three of you linger in the empty classroom.)
 
 # ~8b8f72cf
-; > 女主 B（看着喷泉）：
+; > 薇拉（看着喷泉）：
 ; > Test_B: |#~8b8f72cf|
 ; 其实，有时候我挺羡慕你们的。
-
+Sometimes I envy you.
 
 # ~94e85d
 ; > Test_C: |#~94e85d|
 ; 羡慕我们什么？
-
-
-# ~9c727fb1
-; 女主 B轻笑：
-
+Envy us what?
 
 # ~7a2104e7
+; > 薇拉轻笑：
 ; > Test_B: |#~7a2104e7|
 ; 羡慕你们能那么笃定。
+The certainty you carry.
 
+# ~ac111d3a
+; > Test_B: |#~ac111d3a|
+; 像诺维娅一样觉得，世界就该被秩印守护着。
+That the world is right when the Seal stands guard—like Novia does.
 
-# ~db829fac
-; > Test_B: |#~db829fac|
-; 像 A 一样觉得，世界就该被秩印守护着。
-
-
-# ~a3431190
-; (女主 A一愣，放下书。)
-
+# ~ea8cef2c
+; (诺维娅一愣，放下书。)
+(Novia lowers her book, surprised.)
 
 # ~cfb4b5c2
 ; > Test_A: |#~cfb4b5c2|
 ; 我……并不是盲目相信。
-
+I… don’t believe blindly.
 
 # ~7ffa0c36
 ; > Test_A: |#~7ffa0c36|
 ; 只是如果没有秩印，过去那些混乱和血腥，可能会再次发生。
+But without the Seal, the old chaos—the blood—could return.
 
-
-# ~ea4824ca
-; (女主 B看着她，眼神少了几分锋利，语气柔和下来。)
-
+# ~f8d3aac5
+; (薇拉看着她，眼神少了几分锋利，语气柔和下来。)
+(Vera’s gaze softens, edges dulled.)
 
 # ~4cb574ee
 ; > Test_B: |#~4cb574ee|
 ; 嗯，也许吧。至少现在，喷泉还会响，音乐还能传开。
-
+Maybe. For now, the fountain still sings and the music carries.
 
 # ~4de5cbf6
 ; （短暂的沉默，氛围变得出奇宁静。）
-
+(A hush falls—gentler than any silence you’ve known here.)
 
 # ~5b30901b
 ; > Test_C: |#~5b30901b|
 ; 今天的午休气氛很平静。她们没有争吵，这是难得的安静时刻。
-
+No arguments, no barbs—just sunlight and the sound of water. A rare truce.
 
 # ~29577706
 ; 【傍晚 · 宿舍】
-
+[Evening · Dormitory]
 
 # ~5c4d7ae3
 ; (躺在床上回想今天的情况。)
-
+(You sprawl on the narrow bed, replaying the day.)
 
 # ~e67d74f6
 ; > Test_C: |#~e67d74f6|
 ; 今天很特别。没有争吵，也没有训斥，只有阳光、喷泉和短暂的安静时刻。
-
+No scolding, no sparks—only sunlit fountains and a quiet that lasted.
 
 # ~e2211a2a
 ; > Test_C: |#~e2211a2a|
 ; 或许，这样的学生生活才更贴近实际。
-
+Maybe this—moments like this—is what student life is supposed to be.
 
 # ~f3c5fc30
 ; (翻了个身，窗外的秩印投影依旧冷冽，但看起来不那么刺眼了。)
-
+(You roll over. Beyond the window the Seal still hovers, cold and vast—but tonight its light feels almost gentle.)
