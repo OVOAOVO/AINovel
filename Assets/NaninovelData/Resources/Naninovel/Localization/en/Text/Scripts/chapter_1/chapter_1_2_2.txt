@@ -1,0 +1,108 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_2_2' Naninovel scenario script
+
+# ~a5d85fe6
+; 【上午：律院参观「秩印博物馆」】
+[Morning: Field Trip — Order-Seal Museum]
+
+# ~e899d3e4
+; 大理石铺就的大厅高耸入云，墙壁上浮动着符文投影，每一枚都带着悠远而冷静的气息。学生们在讲解员引导下缓步前行，脚步声在穹顶下回荡。
+A marble atrium climbs toward the sky, glyphs drifting across the walls like pale fire. Under the docent’s lead, students advance in slow reverence; every footstep returns as an echo from the vault.
+
+# ~5ba2984d
+; 诺维娅行走在你身旁，眼神明亮，仿佛整个人都被眼前的秩序之美所充盈。
+Nova walks beside you, eyes luminous, as though the very air were charged with the beauty she worships.
+
+# ~9cc0a40f
+; > 诺维娅（轻声）：
+; > Test_A: |#~9cc0a40f|
+; 这里记录着人类最重要的奇迹。没有它，就没有今天的我们。
+This place holds humanity’s greatest miracle. Without it, we wouldn’t exist.
+
+# ~303c660
+; 你抬头望着那一座座碑刻，感受到的不只是庄严，还有一种仿佛被无形力量注视的压迫。
+You crane your neck at the steles—awe coils with the weight of being watched by something ancient and sleepless.
+
+# ~f109559d
+; 【中午：博物馆花园】
+[Midday: Museum Garden]
+
+# ~245e81ac
+; 白石长廊下，阳光透过雕花窗棂洒落。花园静谧，连鸟雀的鸣叫都显得分外克制。
+Beneath a white-stone arcade, sunbeams sieve through latticework. The garden is so hushed even birds moderate their song.
+# ~91eb9461
+; 诺维娅坐在长椅上，取出随身笔记本，开始抄写碑文上的字句。她的笔触细致，神情专注。
+Nova sits on a bench, copying inscriptions into her notebook—each stroke small, exact, an act of devotion.
+
+# ~cd84f8e2
+; > Test_A: |#~cd84f8e2|
+; 秩序即是人类的基石。只要我们铭记这一点，就能避免重蹈混乱的覆辙。
+Order is humanity’s bedrock. Remember that, and we never again tread the path of chaos.
+
+# ~c101e117
+; 你望着她伏案的身影，忽然意识到，和她在一起时，连空气都被拉得很安静。
+Watching her, you realize the very air gentles when she is near—silence drawn thin and taut like silk.
+
+# ~4051988b
+; 【下午：仪式大厅】
+[Afternoon: Ritual Hall]
+
+# ~d7e52582
+; 厚重的青铜门被推开，新生志愿者在导师引导下走到中央。随着咏唱，志愿者头顶出现了“契印光环”，符文如流水般环绕，投下冰冷而庄重的光辉。
+Bronze doors yawn open; volunteer first-years step into the circle. At the chant’s crest a “Covenant Halo” ignites above them—runes stream like liquid light, cold, implacable.
+
+# ~86edb951
+; 整个大厅一片肃穆，连呼吸都显得突兀。
+The hall holds its breath; even breathing feels like sacrilege.
+
+# ~630dc079
+; 诺维娅的目光炽热而坚定。
+Nova’s gaze burns steady, as though she could warm the cosmos with conviction alone.
+
+# ~f83457c7
+; > Test_A: |#~f83457c7|
+; 这是所有人安宁的保证。也是我们存在的意义。
+This is the guarantee of our peace—and the reason we exist at all.
+
+# ~bb8d62cc
+; 她说这话时，眼睛一瞬不瞬，仿佛那光辉中藏着她一生的信仰。
+She never blinks; the light has become her creed, her horizon, her future.
+
+# ~b3c06b6f
+; 【晚上：归途与夜谈】
+[Evening: Way Home & Night Talk]
+
+# ~6a5c8a1
+; 返回律院的路上，城市的灯光与秩印光晕交织，显得分外整洁。学生们三三两两散去，夜风安静地吹过。
+City lamps braid with the Seal’s glow, streets unnaturally tidy. Students drift apart; the night wind combs the boulevard in silence.
+
+# ~398f186f
+; 诺维娅主动走近你，声音柔和：
+Nova draws close, voice soft as the wind:
+
+# ~7d571f10
+; > Test_A: |#~7d571f10|
+; 要不要一起复习条文？我知道明天还有测验。
+Want to drill the clauses together? There’s another quiz tomorrow.
+
+# ~66ecb968
+; > Test_A: |#~66ecb968|
+; ……如果和你一起背的话，我可能会更安心一些。
+…Reciting with you—I think I’d feel steadier.
+
+# ~a8762b55
+; 她低着头，不敢直视你，语气却带着一丝期待。
+She studies the pavement, cheeks lit by lantern-glow, hope threading every word.
+
+# ~cde997e0
+; > @choice |#~cde997e0|
+; 答应她的请求
+Accept her offer
+
+# ~466accd6
+; > @choice |#~466accd6|
+; 婉拒，表示有些累了
+Decline—too tired tonight
+
+# ~7d51edaf
+; (夜色笼罩律院，秩印光芒在窗外守望。你意识到，诺维娅 的坚定不仅仅是对秩序的信仰，她似乎也在逐渐把你纳入她的信念之中。)
+(Night swallows the academy; the Seal keeps its vigil beyond the window. You realize Nova’s certainty is more than creed—she is quietly drawing you into its orbit.)

@@ -1,0 +1,150 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_2_4' Naninovel scenario script
+
+# ~30101bb
+; 【上午：双节预告】
+[Morning: Twin-Festival Eve]
+
+# ~1195986b
+; 清晨的阶梯教室，导师推开门，目光一一扫过众人。
+At dawn in the tiered lecture hall the tutor swings the door open, raking the room with a level gaze.
+
+# ~3c996557
+; > 导师（平淡）：
+; > Test_DS: |#~3c996557|
+; 明日便是‘双节日’，律院会暂停一切课程。请大家记住，祭典不仅是庆祝，更是对秩印的再一次誓约。
+Tomorrow is the Twin-Festival. All classes are suspended. Remember: the festival is not mere revelry—it is a renewed oath to the Order Seal.
+
+# ~45653470
+; 学生们的窃窃私语渐起，教室里弥漫着难得的轻松气息。终于没有条文测验、也没有厚重的案例研读，取而代之的是对节日的期待。
+Whispers rise; the air feels lighter than it has in weeks. No clauses, no cases—only anticipation.
+
+# ~162bdbb4
+; 你看向一旁的诺维娅，她却依旧坐姿笔直，目光专注。
+You glance at Nova—spine straight, eyes still sharp, duty-bound even in relief.
+
+# ~f0be8d4b
+; > 诺维娅（小声）：
+; > Test_A: |#~f0be8d4b|
+; 节庆并不只是休息啊。它提醒我们——秩序从来不是理所当然。
+Festivals aren’t holidays. They remind us—order is never a given.
+
+# ~29f55bd5
+; 说完，她认真地在笔记本上写下“祭典须知”。
+She opens her journal and titles a fresh page: Festival Protocols.
+
+# ~5f27ad2b
+; 【中午：祭典徽章】
+[Noon: Festival Badge]
+
+# ~3b1a8537
+; 律院食堂今日比往常热闹，长桌间不时传来关于祭典的讨论。
+The cafeteria is louder than usual—long tables buzzing with festival plans.
+
+# ~62f34b40
+; 你刚坐下，诺维娅 就从怀里取出一个小巧的盒子。
+As you sit, Nova draws a small box from her coat.
+
+# ~1548338d
+; > 诺维娅（略带紧张）：
+; > Test_A: |#~1548338d|
+; 这个……是祭典专属的徽章。我记得你还没有，就特地给你拿了一个。
+…This is a festival badge. You didn’t have one, so I—picked it up for you.
+
+# ~d8e899c0
+; 盒子里是一枚银色徽章，表面刻着秩印的符文，在光下闪耀。
+Inside: a silver pin etched with the Seal’s glyph, catching the light like frost.
+
+# ~f71271c7
+; 【下午：社团活动日】
+[Afternoon: Club Activity Day]
+
+# ~d9f2351a
+; 律院提前开放了社团活动。广场与走廊都挂满了彩带，学生们三三两两穿梭其间。
+The academy throws open its gates—banners overhead, students weaving in bright, loose knots.
+
+# ~4f9ca928
+; 诺维娅并没有被热闹分散注意力，她径直走到你身边。
+Nova ignores the noise and walks straight to you.
+
+# ~3e6641c0
+; > Test_A: |#~3e6641c0|
+; 下午有一个‘法典宣誓会’。那是律院的传统，代表着在祭典前，再一次确认我们的信念。
+There’s a Codex Oath-taking this afternoon. Tradition—reaffirming our creed before the festival.
+
+# ~f268dd9a
+; > Test_A: |#~f268dd9a|
+; ……我们一起去吧
+…Let’s go together.
+
+# ~14222eca
+; 她的眼神明亮，仿佛期待的不只是仪式本身，而是和你并肩站在誓词前的那份庄严。
+Her eyes shine—not for the rite alone, but for standing beside you when the words are spoken.
+
+# ~3b45de5b
+; （你跟她度过了愉快的下午）
+(The afternoon passes in easy step with her.)
+
+# ~a6adb40a
+; 【晚上：广场散步】
+[Evening: Plaza Stroll]
+
+# ~bc144c1
+; 夜幕下的律院广场，灯火与秩印光辉交织，空气里弥漫着节庆将至的氛围。
+Lanterns braid with the Seal’s glow; the square smells of night-bloom and anticipation.
+
+# ~6083f11c
+; 诺维娅和你并肩走着，步伐缓慢。四周人声逐渐散去，只剩你们的对话被夜风轻轻带走。
+Side by side, pace unhurried. Voices fade until only wind carries your words.
+
+# ~8d9e0487
+; > 诺维娅（声音放得很轻）：
+; > Test_A: |#~8d9e0487|
+; 其实……我一直有个目标。我要成为秩印守护者，守护所有人，维持公平与秩序。
+…I have a goal. I will become a Seal-Guardian—protect everyone, uphold fairness and order.
+
+# ~54be345b
+; > Test_A: |#~54be345b|
+; 也许会很辛苦，但这是我心中唯一的答案。
+It will be hard, but it’s the only answer I have.
+
+# ~848deff
+; (说到最后，她停下脚步，望向远处的秩印光环。眼眸里有光，也有一丝忐忑。)
+She stops, gaze on the distant halo—eyes bright, but uncertain.
+
+# ~8994cb00
+; > @choice |#~8994cb00|
+; 鼓励她
+
+Encourage her
+
+# ~95da8430
+; 你点头，认真地回应她的梦想。
+You nod, earnest, letting the dream land between you.
+
+# ~fa39ca20
+; (诺维娅的眼神一瞬间亮了起来，仿佛终于得到了确认。她的嘴角微微上扬)
+(Nova’s eyes flare—confirmation at last. A small smile curves.)
+
+# ~c899dc0a
+; > 轻声道
+; > Test_A: |#~c899dc0a|
+; 谢谢你……有你在，我更有勇气了。
+…Thank you. With you here, I’m braver.
+
+# ~23f37eb0
+; > @choice |#~23f37eb0|
+; 调侃“听起来很辛苦”
+Tease: “Sounds like overtime.”
+
+# ~550a2757
+; （诺维娅 先是一愣随即轻轻摇头，露出苦笑）
+She blinks, then shakes her head with a rueful smile.
+
+# ~2e01e283
+; > Test_A: |#~2e01e283|
+; 你啊，总是这么轻松。但……我还是不会退缩的。
+You always make things light… but I won’t step back.
+
+# ~93c20a58
+; (她转过身，继续向前走去，背影却透出几分孤独。)
+She turns and walks on—shadow lengthening, suddenly solitary.

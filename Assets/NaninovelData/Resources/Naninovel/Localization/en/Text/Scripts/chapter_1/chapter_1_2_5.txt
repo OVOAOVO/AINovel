@@ -1,0 +1,153 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_2_5' Naninovel scenario script
+
+# ~d28e48a4
+; 【上午：祭典开幕】
+[Morning: Festival Opening]
+
+# ~d815c2de
+; 律院广场上人潮涌动，整齐的长阶上悬挂着象征秩序的白色旗帜。
+The academy square swells with people; white banners of Order ripple from tiered steps.
+
+# ~22d357b9
+; 秩印守护者们身着黑袍，缓步走到中央高台，手中握着象征律法的卷轴。
+Seal-Guardians in black robes pace to the dais, scrolls of Law clasped like sceptres.
+
+# ~5f86d164
+; 随着低沉的吟诵声响起，巨大的秩印在天空展开，光辉缓缓洒落。
+A bass chant unfurls; a colossal Seal blooms across the sky, spilling cold radiance.
+
+# ~6dc5d762
+; 空气中带着庄严的压迫感。
+The air itself seems to kneel.
+
+# ~75eccbd2
+; 学生们纷纷肃立，仿佛每一丝呼吸都被秩序所约束。
+Students stand statue-still—every breath measured, taxed, permitted.
+
+# ~767abc03
+; (你余光望向 诺维娅，她神情专注，双手紧握在身前，眼神比任何时候都要坚定。)
+(You glance at Nova—hands clasped, gaze forged steel, more resolute than you’ve ever seen.)
+
+# ~bd167150
+; 【中午：徽章与誓约】
+[Noon: Badge & Oath]
+
+# ~2f789c20
+; 仪式间隙，学生们被引导到秩印之下，逐一完成祈愿环节。
+Between rites, cadets file beneath the Seal to register personal vows.
+
+# ~51d9218e
+; 诺维娅与你并肩走来，手里拿着昨天送出的徽章。
+Nova walks beside you, yesterday’s badge glinting in her palm.
+
+# ~6c597dac
+; > 诺维娅（低声，像怕被别人听到）：
+; > Test_A: |#~6c597dac|
+; 把它拿出来吧。徽章需要与秩印投影对照，这样才能记录下我们的誓言。
+Take it out. The badge must align with the Seal’s projection—only then will our oath be logged.
+
+# ~dd371534
+; 你依言取出徽章，银色符文与秩印光芒交叠的一瞬，空气仿佛震颤。
+You lift the pin; silver glyph and Seal-light overlap. The air shivers like a plucked string.
+
+# ~3cdd1c27
+; (光辉在你与诺维娅身前交汇，像是为你们绘下了一个隐形的羁绊。)
+(The beam braids you together—an invisible ribbon, witnessed by the sky.)
+
+# ~c596ebc4
+; > 诺维娅抿了抿唇，神色认真：
+; > Test_A: |#~c596ebc4|
+; 从这一刻起，我们的誓约，便会刻在秩序的记录中。
+From this instant our vow is etched into Order’s ledger.
+
+# ~ef3d7dc6
+; 【下午：护符】
+[Afternoon: The Talisman]
+
+# ~559ecc59
+; 仪式进入高潮。秩印守护者高声诵读秩印核心条款。
+The climax nears. Guardians chant the Seal’s thirty-six core clauses.
+
+# ~f6aa24fa
+; (在那庄严的节奏中，诺维娅 转身，郑重地递来一枚小巧的护符。)
+(Amid the cadence Nova turns and offers a palm-sized talisman.)
+
+# ~2cbf6091
+; > 诺维娅（语气缓慢，像是在宣判，又像是在请求）：
+; > Test_A: |#~2cbf6091|
+; 愿你也能与我并肩。
+May you stand beside me.
+
+# ~140d877e
+; > Test_A: |#~140d877e|
+; 守护这份秩序，也守护我们……共同的未来。
+Guard this order—and guard our shared tomorrow.
+
+# ~bb409c5b
+; 她伸出的手微微颤抖，却依旧笔直坚定。
+Her hand trembles yet never wavers—blade-steady.
+
+# ~4c65d277
+; 你能感觉到，这不只是律院的传统，而是她的心意。
+You know: this is no custom—this is her heart translated into metal.
+
+# ~ffa1769f
+; 【晚上：烟火】
+[Evening: Fireworks]
+
+# ~db1d24e3
+; 夜幕降临，广场上的祭典气氛逐渐热烈。
+Night pours in; the square thrums with drumbeats and lantern-light.
+
+# ~3240bf01
+; 烟火自律院塔楼上空绽放，秩印的光辉与火花交织，照亮每一张年轻的面孔。
+Rockets bloom above the tower—gold, violet, crimson—each burst kissing the Seal’s cold halo.
+
+#  ~3788f8f9
+; (诺维娅静静站在你身侧，没有像白天那样严肃，而是轻轻靠近。)
+(Nova stands close, shoulder almost brushing yours, daytime rigor thawed.)
+
+# ~9ffb4f68
+; > 诺维娅（轻声）：
+; > Test_A: |#~9ffb4f68|
+; 谢谢你……愿意和我一起守望这个世界。
+Thank you… for willing to watch this world with me.
+
+# ~ab8cfa31
+; > Test_A: |#~ab8cfa31|
+; 无论前路如何，有你在，我就不怕了。
+Whatever comes, I’m no longer afraid—with you here.
+
+# ~57cf9733
+; 她的眼神此刻温柔而明亮，像是终于卸下了长久以来的孤独。
+Her gaze is soft sunrise—loneliness set down, if only for tonight.
+
+# ~ff8111e1
+; > @choice |#~ff8111e1|
+; 牵起她的手
+Take her hand
+
+# ~f786d4ab
+; (她先是一愣，随后缓缓收紧指尖，仿佛终于找到了归宿。)
+(She startles, then curls her fingers—an anchor found at last.)
+
+# ~c698f22e
+; 漫天烟火下，两人的剪影被定格。
+Against the star-burst sky, two silhouettes lock in fragile permanence.
+
+# ~6a4a081b
+; > 触发诺维娅专属
+Triggers Nova personal route flag
+
+# ~58b285a2
+; > @choice |#~58b285a2|
+; 只是微笑回应
+Only smile back
+
+# ~218fb46a
+; (诺维娅没有追问，只是与烟火一起仰望天空。)
+(She asks nothing more; both of you watch the sky bloom and die.)
+
+# ~218fb46a
+; 她的嘴角依旧上扬，但眼神里隐约掠过一丝落寞。
+The smile lingers, yet a shadow of loneliness flickers across her eyes—gone with the next falling spark.

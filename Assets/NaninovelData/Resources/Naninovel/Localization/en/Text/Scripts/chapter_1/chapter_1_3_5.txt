@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_3_5' Naninovel scenario script
+
+# ~f484763c
+; 【上午 · 校园广场】
+[Morning: Campus Plaza]
+
+# ~ec73c2fb
+; 晨光中，交流会进入尾声。昨日的听证仍在许多人心头盘旋。
+In the morning light the conclave winds down; yesterday’s hearing still circles like a hawk overhead.
+
+# ~b8f58a8
+; 人群散落在广场周围，有人仍在小声议论，有人已经疲倦，不愿再提。
+Students drift in loose clusters—some murmuring, some too weary to reopen the wound.
+
+# ~874f4b1b
+; 秩院长老简短宣布交流会结束，留下了一句意味深长的话：
+An elder lifts a hand, closes the event with a parting barb:
+
+# ~c07ec12d
+; > Test_D: |#~c07ec12d|
+; 秩序与自由，如双翼并举。愿你们记得——没有任何一翼可以独飞。
+Order and Freedom are twin wings. Remember—neither can fly alone.
+
+# ~fdabf6f2
+; 话音落下，广场逐渐空荡，只余余音在心底回荡。
+The square empties; the echo stays, beating against ribs.
+
+# ~edeb0456
+; 【下午 · 校门口】
+[Afternoon: Academy Gate]
+
+# ~90637a1a
+; 兽裔代表们整理好行李，准备离开。昨日本就显得稚气的兽裔青年，神情中带着几分疲惫，却也透着感激。
+Beast-blood delegates tighten packs. The youth who stumbled looks younger, eyes ringed but grateful.
+
+# ~c5bea173
+; 他走到你和 薇拉 面前，先是深深一鞠躬。
+He stops before you and Vera, bows low.
+
+# ~b9b2fcfc
+; > Test_D: |#~b9b2fcfc|
+; ……谢谢你们。若没有你们，我大概再也回不了族地。
+…Thank you. Without you, I’d never have seen home again.
+
+# ~1fda9511
+; 他的代表也郑重点头，低声道：
+His elder dips her head, voice quiet:
+
+# ~39ea5c32
+; > Test_D: |#~39ea5c32|
+; 今日得以化解冲突，我们记在心里。未来若有机会，我们会还这个人情。
+Today’s peace is remembered. When fate allows, we will balance the debt.
+
+# ~c62bcfb2
+; 薇拉只是轻轻摆手，语气淡然：
+Vera waves once, off-hand:
+
+# ~4ad3da4a
+; > Test_B: |#~4ad3da4a|
+; 别急着谢我们。真正的考验，不在一次听证，而在以后你们如何看待秩序。
+Save thanks. The test isn’t today’s hearing—it’s how you choose to see Order tomorrow.
+
+# ~3423e64b
+; 兽裔青年愣了一下，却点头离去。临走前，他的目光再次停在你身上，带着复杂的意味。
+He blinks, nods, departs—last look at you: gratitude, warning, question.
+
+# ~b21f13d2
+; 【晚上 · 校园一隅】
+[Evening: Campus Back-Lane]
+
+# ~257284d2
+; 夜风微凉，你与薇拉 并肩走在归宿的路上。广场的灯火已暗，却仿佛仍能回想起那日的喧嚣与紧张。
+Cool wind, dim path. The square’s lights are dead, but memory replays noise and tension.
+
+# ~f8d9eab4
+; 薇拉随意甩了甩袖口，神情有些放松，但眼底仍留着思索。
+Vera flicks her sleeve, posture looser, yet calculation lingers behind her eyes.
+
+# ~f3936807
+; 薇拉沉默许久，轻轻叹息。
+A long hush, then a small exhale.
+
+# ~85e58c49
+; > Test_B: |#~85e58c49|
+; 有时候我真搞不懂你……你明明不坏，却总站在那些冷冰冰的条文那一边。
+Sometimes I don’t get you… you’re not cruel, yet you always side with the cold clauses.
+
+# ~18836b4b
+; 她转过头看你，目光中带着几分探究
+She turns, searching.
+
+# ~70cdbc3d
+; > Test_B: |#~70cdbc3d|
+; 你真的相信，秩序能解决一切吗？
+Do you honestly believe Order solves everything?
+
+# ~cdbdb5b2
+; 她没有等待答案，只是自顾自地笑了笑
+No pause for reply; she answers herself with a crooked smile.
+
+# ~5969e94c
+; > Test_B: |#~5969e94c|
+; 算了，也许哪天，你会找到属于自己的答案。
+Forget it. Maybe one day you’ll find your own answer.
+
+# ~8be9d044
+; 她的身影在夜色中拉长，似乎在你心与她之间留下一道淡淡的缝隙。
+Her silhouette stretches—an inch of night slipping between you.
+
+# ~afe789d9
+; 薇拉 轻轻笑了一声，语气少见地温柔：
+A softer laugh, almost tender:
+
+# ~4a4ac33f
+; > Test_B: |#~4a4ac33f|
+; 今天谢谢你。站出来可不轻松。
+Thank you for today. Standing up isn’t easy.
+
+# ~1fbcadc0
+; 她的眼神在灯火下显得分外明亮，带着欣慰与依赖
+Eyes catch the lamplight—relief and fragile trust.
+
+# ~5fd5cd72
+; > Test_B: |#~5fd5cd72|
+; 有时候我会觉得……能有人和我并肩，真好。
+Sometimes… having someone beside me feels—good.
+
+# ~4b8e5f6
+; 她没有再多说，却在临别时轻声补了一句
+Parting shot, whisper-soft:
+
+# ~cafaf5ef
+; > Test_B: |#~cafaf5ef|
+; 以后，不许轻易后退。
+From now on—don’t step back so easily.
+
+# ~c4e1053c
+; 夜色中，你第一次真切感受到，她不只是锋锐与挑衅，也有那份温柔与倔强。
+Night hides her smile; you feel the first warm pulse beneath the blade.
+
+# ~4dfd8365
+; > @choice |#~4dfd8365|
+; 直面回应
+Answer head-on
+
+# ~2378d400
+; 你停下脚步，认真看着她
+You halt, meet her gaze:
+
+# ~8cadbfa2
+; > Test_C: |#~8cadbfa2|
+; 无论以后发生什么，我都会站在你身边。
+Whatever comes, I’ll stand beside you.
+
+# ~4704aad1
+; 薇拉 微微一愣，随即勾起一个带点挑衅却明显柔和的笑容
+She blinks, then a crooked grin—half dare, half softness.
+
+# ~3321c01e
+; > Test_B: |#~3321c01e|
+; 哼——你可别食言。
+Hmph—don’t you dare break that promise.
+
+# ~aa10f6de
+; 她的眼神变得炽热，那一瞬间，气氛仿佛凝固。
+Heat flares in her eyes; the night air stills—moment sealed in amber.
+
+# ~e66ea150
+; > 好感度+1（解锁CG）。
+Affinity +1 (CG unlocked).
+
+# ~e66ea150
+; > @choice |#~e66ea150|
+; 轻描淡写
+Play it light
+
+# ~5bfc043f
+; 你笑着挥挥手：
+You shrug, grin:
+
+# ~6b6546bf
+; > Test_C: |#~6b6546bf|
+; 谁知道以后会怎样呢？反正今晚的风挺舒服。
+Who knows what’ll happen? At least tonight’s breeze feels nice.
+
+# ~1e079cfd
+; 薇拉眯了眯眼，似乎想说什么，却只是摇摇头
+She narrows her eyes, on the verge of words, then shakes her head.
+
+# ~7d491955
+; > Test_B: |#~7d491955|
+; 算了，你这家伙……
+Forget it, you…
+
+# ~9faa4898
+; 她转过身，快步走在前面，没再多言。
+She turns, strides ahead—no more words, but the echo stays.
+
+# ~9834d7bb
+; 交流会最终落幕。
+The conclave ends.
+
+# ~1c0ad88c
+; 你第一次真切体会到“秩序与自由”的对立，也第一次与 薇拉在心灵深处产生了交汇。
+For the first time you feel Order and Freedom collide—and for the first time, Vera’s heart touches yours.
+
+# ~c20f62da
+; 这一切，并不是故事的终点，而是羁绊真正的开端。
+This is not the finish—it is where the knot tightens.

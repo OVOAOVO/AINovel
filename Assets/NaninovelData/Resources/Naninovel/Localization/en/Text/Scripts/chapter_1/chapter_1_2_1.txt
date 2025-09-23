@@ -1,0 +1,138 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_2_1' Naninovel scenario script
+
+# ~7b8328ec
+; 【上午：课堂学习《秩源学基础·第三卷》】
+[Morning: Class – Order-Source Studies, Vol. III]
+
+# ~ae0569c2
+; 律院的阶梯教室内，导师的声音如同秩印投影般平稳而冷冽。墙上的符纹缓缓浮动，仿佛在暗中校对每一名学生的笔记。
+In the tiered hall the instructor’s voice is as steady and cold as the Order-Seal holograph overhead. Glyphs drift across the wall like silent auditors correcting every note we take.
+
+# ~2df7adef
+; > Test_DS: |#~2df7adef|
+; 秩印不仅是约束，更是保障。它的逻辑算法，确保人与人之间的公平，使得社会无需依赖猜疑而运转。
+“The Seal is not mere constraint—it is guarantee. Its algorithms secure fairness between persons, freeing society from the tyranny of suspicion.”
+
+# ~f48e3cc6
+; (你本能地走神，直到旁边的 诺维娅 轻轻咳了一声。)
+(Your mind wanders until Nova clears her throat beside you.)
+
+# ~ffc11a7b
+; > Test_A: |#~ffc11a7b|
+; 要专注哦，不然会跟不上。
+Focus, or you’ll be left behind.
+
+# ~c4476a73
+; 她的声音柔和，却带着不容置疑的认真。你心中一紧，赶紧低头，笔尖重新落在纸上。
+Soft, yet absolute. You start, drop your gaze, and set pen to paper again.
+
+# ~34d53e93
+; 【中午：律院食堂】
+[Noon: Academy Cafeteria]
+
+# ~76fe50f5
+; 秩印投影在食堂中央闪耀着，学生们在光环的引导下排队取餐，每个人的顺序和座位都被分配得井井有条。空气中没有催促，也没有插队的争执。
+The Seal’s projection hovers at the center of the hall; students take trays in perfect sequence, every seat pre-assigned. No hustle, no quarrels, no line-cutting.
+
+# ~652b8f1a
+; 诺维娅 坐在你对面，神情自然。
+Nova sits across, composed.
+
+# ~d773d189
+; > Test_A: |#~d773d189|
+; 看，这就是秩印的意义。因为它，我们才能安心生活，不必担心被背叛。
+See? This is what the Seal means. Because of it we live without fear of betrayal.
+
+# ~80a42863
+; > Test_C: |#~80a42863|
+; 偶尔也想来点混乱，感觉太安静了。
+Sometimes I miss a little chaos—it feels vacuum-sealed in here.
+
+# ~351455c2
+; 诺维娅眨了眨眼，轻轻摇头：
+She blinks, gives a small head-shake.
+
+# ~57be53c7
+; > Test_A: |#~57be53c7|
+; 你总是这样。但如果真有混乱……你可未必能笑得出来。
+You always say that. But if chaos truly came… I doubt you’d still be smiling.
+
+# ~ba600cd6
+; 【下午：校图书馆】
+[Afternoon: Campus Library]
+
+# ~735a5ce5
+; 高大的书架间，光线透过彩色玻璃洒下。诺维娅 正在翻阅厚重的案例卷宗，她的动作娴熟，仿佛已经习惯了与这些条文为伴。
+Light falls through stained glass between towering stacks. Nova pages through heavy case-files, fluent and familiar—long used to living among clauses.
+
+# ~620d036f
+; > 诺维娅（认真）：
+; > Test_A: |#~620d036f|
+; 这些都是秩印在民事裁决上的应用。比如财产分配、契约履行、婚姻判定……没有它，人类很快会陷入纷争。
+These are civil applications—property division, contract enforcement, marriage adjudication. Without the Seal humanity would slide back into strife.
+
+# ~cd7a001
+; (你只是静静陪在旁边，看着她专心的神情。偶尔她低头时，发丝会垂落，投下浅浅的阴影。)
+(You sit nearby, watching the concentration on her face. When she bows her head a lock of hair slips free, sketching soft shadow.)
+
+# ~de9efd07
+; 察觉到你的注视，她抬起头，有些意外。
+Sensing the stare, she glances up, startled.
+
+# ~4c53a740
+; > 诺维娅（小声）：
+; > Test_A: |#~4c53a740|
+; ……看书啊，不要一直看我。
+…Read the book, not me.
+
+# ~8df50f44
+; 她脸上泛起一丝微红，很快又低下头，装作没发生过。
+Colour touches her cheeks; she ducks back behind the tome, pretending nothing happened.
+
+# ~9efc5524
+; 【晚上：宿舍夜谈】
+[Evening: Dorm Night-Talk]
+
+# ~eb1dab5d
+; 夜色降临，窗外的秩印光芒在空中旋转，像无声的守护者。
+Night falls; outside the window the Seal’s light revolves like a noiseless sentinel.
+
+# ~7bde2565
+; 诺维娅 合上书，神情庄重：
+Nova closes her book, solemn:
+
+# ~7d531767
+; > Test_A: |#~7d531767|
+; ‘法典祭典’快到了。那是对秩印的誓约，也是我们存在的证明。
+The Codex Festival is near. It is our oath to the Seal—and the proof we exist.
+
+# ~497d02aa
+; > Test_A: |#~497d02aa|
+; ……你想要我一起去嘛？（邀请）”
+…Will you go with me?” (invitation)
+
+# ~8859abb1
+; （空气安静下来，她的眼神中有着从未有过的期待。）
+The air stills; in her eyes lives a hope you’ve never seen before.
+
+# ~787b48a1
+; > @choice |#~787b48a1|
+; 答应与她一同参加祭典
+Accept—attend the festival together
+
+# ~c54d6fe9
+; 诺维娅明显松了口气，露出安心的笑容。
+Her shoulders ease; a quiet smile blooms.
+
+# ~cedeac20
+; > @choice |#~cedeac20|
+; 含糊其辞
+talking vaguely
+
+# ~a547b364
+; 诺维娅神情微微一滞，眼底掠过一丝不安。
+Her expression falters; unease flickers across her gaze.
+
+# ~c3a034a0
+; （夜幕静静笼罩，你意识到，在这秩序至上的律院里，她的坚定，也在悄悄牵动着你的心。）
+Night settles. In this academy where order is god, her unwavering certainty is quietly tugging at your heart.

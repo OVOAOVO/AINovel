@@ -1,0 +1,166 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_2_3' Naninovel scenario script
+
+# ~3b6f4b89
+; 【上午：课堂小测】
+[Morning: Pop Quiz]
+
+# ~c9b732c0
+; 律院的阶梯教室里，今天并没有冗长的讲解，取而代之的是一场小测。
+No lecture today—just tiered rows and the hush of a quiz.
+
+# ~2b8a2cdb
+; 监考导师的声音如同冷铁般简短
+The proctor’s voice is cold iron: short, unbending.
+
+# ~b7501481
+; > Test_C: |#~b7501481|
+; 限时三十分钟，考察《秩源学基础·第三卷》。
+Thirty minutes. Scope: Fundamentals of Order-Source, Volume III.
+
+# ~5d67abe2
+; 笔尖摩擦纸张的声响此起彼伏。
+A chorus of scratching nibs fills the air.
+
+# ~250f1319
+; 诺维娅低着头，神情冷静，字迹工整如秩印刻下的纹路。她几乎没有停顿，答案流畅而坚定。
+Nova bends over her paper, calm, precise—every letter a miniature clause carved in stone.
+
+# ~4c04d537
+; 你看着自己试卷上的空白，忽然有些心虚。
+Your own blanks stare back like open mouths.
+
+# ~3318b72
+; 诺维娅察觉到你的分神，轻轻踢了踢你的椅子脚。
+She nudges your chair leg—discreet, sharp.
+
+# ~b0afab93
+; > 诺维娅（小声）
+; > Test_A: |#~b0afab93|
+; 专心点。要是因为粗心丢分，可就可惜了。
+Focus. Losing points to carelessness would be a waste.
+
+# ~b41c7c7a
+; 她的眼神没有责备，反而像是一种默默的期待。
+No scolding—just quiet expectation, soft but heavy.
+
+# ~3843029b
+; 【中午：街道的布置】
+[Noon: Decorating the City]
+
+# ~c525aa6a
+; 律院周边的街道上，节庆的气息逐渐浓厚。两侧悬挂起双节旗帜，秩印投影在空中闪耀，映照出条幅上的字句：“法典祭典——秩序的誓约。”
+Banners unfurl along the avenues: “Codex Festival—Oath to Order.” The Seal’s hologram glints above like a watchful star.
+
+# ~244bdb4e
+; 学生们分批外出帮忙布置，整个城市仿佛在缓缓苏醒。
+Students swarm in shifts; the city wakes in orderly increments.
+
+# ~d37bd0e4
+; 诺维娅把一卷条幅交到你手里，微微一笑：
+Nova hands you a roll of crimson cloth and smiles—small, rare.
+
+# ~d9b4e49f
+; > Test_A: |#~d9b4e49f|
+; 来吧，我们也去把这段挂好。大家都在努力，我们也不能落后。
+Come on, let’s get this one up. Everyone’s pulling weight—we don’t lag behind.
+
+# ~4b309ec0
+; 她踩上木梯，举起条幅的另一端，神情专注。阳光洒在她的侧脸上，映出一抹坚定的光辉。
+She climbs the ladder, sleeve sliding to reveal a wrist slim yet steady. Sunlight catches her cheekbone, turning resolve into radiance.
+
+# ~6bc8cf7f
+; 你在下面扶着梯子，看着她伸手时衣袖滑落，露出的手腕纤细却有力。
+You steady the ladder, watching the play of tendon and light, aware of the quiet strength in every reach.
+
+# ~358e7912
+; 完成后，诺维娅俯身下来，眉目间带着少见的轻松。
+Task done, she leans down; for once, her shoulders aren’t carrying the world.
+
+# ~415d114
+; > Test_A: |#~415d114|
+; 这样就好多了。每一条挂上去，仿佛我们也在为祭典许下承诺。
+Better. Each banner feels like a promise we nail to the sky.
+
+# ~f3dfe4f9
+; 【下午：课后讨论会】
+[Afternoon: Round-Table Discussion]
+
+# ~4b01302e
+; 律院的大教室被布置成圆桌讨论的形式。导师提出今日的主题：
+Desks rearranged into a circle. Topic dropped like a weight:
+
+# ~f95772ec
+; > Test_DS: |#~f95772ec|
+; 秩印与艺术的关系。
+The Seal and Art—symbiosis or suffocation?
+
+# ~9504e737
+; 学生们各抒己见，有的说秩印限制了自由，有的说它让艺术失去了“混乱的灵感”。
+Voices clash: some claim the Seal strangles genius; others insist chaos isn’t inspiration—it’s just chaos.
+
+# ~e017ab88
+; 诺维娅等到大家安静下来，才开口，语气平稳却有力：
+Nova waits for silence, then speaks—quiet, unshakable.
+
+# ~de6de6cb
+; > Test_A: |#~de6de6cb|
+; 艺术不是短暂的情绪，而是要在秩序中延续。没有秩印的保障，哪怕最动人的作品，也可能在混乱中消散。正是因为有了秩序，艺术才有了未来。
+Art isn’t a fleeting feeling—it must endure. Without the Seal, even the most beautiful work can vanish in a riot. Order gives art a tomorrow.
+
+# ~f0fe3c04
+; 她的目光清亮，带着毫不动摇的信念。
+Her eyes reflect the podium lights like polished steel—no give, no doubt.
+
+# ~b35d384b
+; 你一时不知该如何回应，只觉得她的坚持像是一堵无形的墙，却又让人想依靠。
+You feel the wall of her certainty—solid, tall, oddly comforting.
+
+# ~d3c0650a
+; 【晚上：烟火试放】
+[Evening: Fire-Work Preview]
+
+# ~8e8d4bae
+; 夜幕降临，祭典的预演在律院外的广场举行。人群聚集，秩印符文投影在空中，指引秩序的同时，也为即将升起的烟火提供能量。
+Night folds over the plaza. The Seal’s glyphs rotate overhead, channeling power into the launch tubes—order fuelling spectacle.
+
+# ~e3ee281e
+; “轰——”第一枚烟火升空，金色的花瓣在夜空盛开。
+BOOM—gold chrysanthemums bloom against black silk.
+
+# ~d4339bae
+; 诺维娅站在你身旁，仰着头，眼神中映出绚烂的光芒。
+Nova stands beside you, pupils strobed by fire-flowers.
+
+# ~16a15822
+; > 诺维娅（轻声）：
+; > Test_A: |#~16a15822|
+; ……真漂亮。
+…Beautiful.
+
+# ~c5d81ad2
+; 夜风吹拂，氛围安静而温柔。你察觉到，她的肩膀正悄悄靠近，却始终保持着一丝克制。
+A breeze lifts her hair; her shoulder almost brushes yours—almost. A line of heat hovers between skin and skin, never crossed.
+
+# ~bce25c24
+; > @choice |#~bce25c24|
+; 答应与她一同观看祭典的烟火
+Promise to watch the festival fireworks with her
+
+# ~9e34b125
+; > （前提条件互动7：答应与她一同参加祭典 ）
+你们并肩站在夜色下，烟火的光芒在她眼底闪烁。诺维娅 隐约露出笑容，像是心底的一块石头终于落下。
+Side by side beneath the bursts, her smile flickers—small, relieved, real.
+
+# ~e29fe9b7
+; > @choice |#~e29fe9b7|
+; 保持沉默，没有回应
+Stay silent—no answer
+
+# ~22b06098
+; > (前提条件互动7含糊其辞)
+诺维娅神情微微一滞，低下头看着自己的手指。等她再抬起头时，眼中的光已经收敛，仿佛重新戴上了秩序的面具。
+Her expression shutters; the mask slides back into place, smile cooled to protocol.
+
+# ~2c1d0f90
+; （夜色渐深，律院上空的秩印依旧守望。但你的心中，却多了一份微妙的不安与悸动。）
+Night deepens; the Seal keeps its vigil. Inside you, a new unease—and a faint, dangerous flutter—take root.

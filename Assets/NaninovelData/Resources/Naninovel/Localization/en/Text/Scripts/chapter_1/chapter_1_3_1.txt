@@ -1,0 +1,146 @@
+; Chinese (S) <zh-CN> to English <en> localization document for 'chapter_1/chapter_1_3_1' Naninovel scenario script
+
+# ~49ee3231
+; 【上午 · 律院大讲堂】
+[Morning: Grand Lecture Hall]
+
+# ~4a25e628
+; 清晨的钟声刚落，导师推门而入，目光扫过全班。
+The morning bell still hangs in the air as the tutor strides in, raking the room with a glance.
+
+# ~a2e2a280
+; > 导师（平淡）：
+; > Test_DS: |#~a2e2a280|
+; 律院将于明日举办一次罕见的‘跨族交流会’。兽裔与异族的代表将齐聚于此，与我们共度节庆。
+Tomorrow the academy hosts a rare Cross-Racial Conclave. Beast-bloods and Exotic delegates will celebrate the festival beside us.
+
+# ~f1d3273
+; 消息一出，教室里顿时喧闹起来。有人兴奋，有人低声惊叹。
+The hall erupts—whispers, whoops, nervous laughter.
+
+# ~d56d0a3f
+; 你抬头望向窗外飘扬的彩旗，心中莫名涌起一丝不安。
+Outside, festival pennants snap in the wind; a nameless unease coils in your chest.
+
+# ~b0b08e23
+; > Test_B: |#~b0b08e23|
+; 热闹而已。节庆看着漂亮，但有时候，它只是把活生生的东西塞进一个框里，方便别人观赏。
+Pomp and pageantry. Pretty, yes—but it packs living things into neat frames so the audience can gawk.
+
+# ~e7bad3c5
+; > Test_B: |#~e7bad3c5|
+; 秩印的光辉，看似庇护，其实……随时能把人变成摆设。
+That glow looks like shelter—until it turns you into furniture.
+
+# ~fa87687
+; 她的眼神冷冽，让我一时语塞。
+Her gaze is winter steel; words freeze in my throat.
+
+# ~34c74947
+; 【下午 · 校园广场】
+[Afternoon: Campus Plaza]
+
+# ~4a3ba81d
+; (你被分配到与薇拉一起布置摊位。)
+(You’re rostered to build stalls—with Vera.)
+
+# ~4ba65105
+; 她拿着清单，手势干脆，指着木架与布料迅速安排。我则搬运木箱，跟随她的指令调整位置。
+She snaps a checklist, jabbing at frames and canvas. I haul crates, shift per her cue. No wasted motion.
+
+# ~ed8dce05
+; 你们之间没有多余的闲话，但节奏逐渐默契。
+No chatter, yet our timing syncs like metronomes.
+
+# ~2c02e5c1
+; 偶尔，她停下动作，抬眼望向你。
+Sometimes she pauses, eyes flicking up.
+
+# ~edf4ffcd
+; > 薇拉（边整理布料）：
+; > Test_B: |#~edf4ffcd|
+; 整齐当然重要，但整齐不是全部。
+Order matters—until it doesn’t.
+
+# ~21fd7869
+; > Test_B: |#~21fd7869|
+; 艺术、情绪、争论……这些东西，规整不了。
+Art, anger, love—those refuse to line up.
+
+# ~ff3ae1d4
+; > Test_B: |#~ff3ae1d4|
+; 如果只顾着把一切拼凑得完美，最后留给人的，只会是空洞的影子。
+Chase perfect seams and you end up with a hollow silhouette.
+
+# ~348770e3
+; (她顿了顿，眼神扫过我，带着轻微探询)
+She stills, gaze skewering me—question poised.
+
+# ~949f18dd
+; > Test_B: |#~949f18dd|
+; 你……会满足于那样的秩序吗？
+Would you be content with that kind of order?
+
+# ~661a5f4d
+; (她的问题像锋刃般逼近，我却不知该如何作答。)
+The blade is at my throat; I have no answer ready.
+
+# ~16583150
+; > @choice |#~16583150|
+; 认同她
+Agree with her
+
+# ~2a0f309a
+; 你停下手里的动作，认真点头。
+You set the crate down and nod, earnest.
+
+# ~4248a374
+; (薇拉望着你，眼神微微一颤，随即露出少见的笑意。)
+(Vera’s eyes flicker—surprise, then a rare, thin smile.)
+
+# ~fa4b52d1
+; > @choice |#~fa4b52d1|
+; 坚持秩序
+Stand by Order
+
+# ~9fd2ee6f
+; 你沉思片刻，缓缓摇头。
+You weigh, then shake your head.
+
+# ~f9ed95c1
+; 薇拉沉默片刻，将布料拉直，她的目光中多了几分疏远。
+She straightens the canvas without a word, distance icing her gaze.
+
+# ~16df1361
+; 【晚上 · 律院大门口】
+[Evening: Academy Gate]
+
+# ~7183c550
+; 夜幕降临，交流会的宾客抵达。
+Night folds in; the conclave’s guests arrive.
+
+# ~3fc7030b
+; 兽裔代表步伐沉重，他们的笑声豪放，眼神锐利得像野兽。人类学生议论纷纷，有人兴奋，也有人下意识退避。
+Beast-bloods tread heavy, laughter raw, eyes predator-bright. Some students thrill; others step back without thinking.
+
+# ~c628e2d1
+; 另一边，异族代表衣饰古怪，语调平缓，举止安静，却带来一种无形的压迫感。
+Exotic delegates in strange draped silks speak low and even—quiet that weighs like lead.
+
+# ~ee2761e4
+; 人群的喧嚣中，你感到空气逐渐凝重。
+Beneath the cheers the air thickens—pressure before storm.
+
+# ~7b6e54c5
+; > Test_B: |#~7b6e54c5|
+; 别只看见表演和礼节。他们带来的，不只是风俗。
+Look past the pageantry. They carry more than customs.
+
+# ~cacb9994
+; > Test_B: |#~cacb9994|
+; 很多时候，所谓的‘交流’，会被秩印的光环吞没，变成另一种规训。
+Often ‘exchange’ is swallowed by the Seal’s halo—reshaped into yet another drill.
+
+# ~33b76ed
+; (她的话在夜风中回荡，久久难以散去。)
+Her words linger in the wind, refusing to disperse.
